@@ -1,0 +1,14 @@
+{
+    "history": {
+    "created": "{{userName}} a créé l'enregistrement",
+    "updated": "{{userName}} a mis à jour le champ {{fieldName}} de « {{oldValue}} » à « {{newValue}} »",
+    "status_changed": "{{userName}} a changé le statut de « {{oldValue}} » à « {{newValue}} »",
+    "converted": "{{userName}} a converti le prospect en compte",
+    "deleted": "{{userName}} a supprimé l'enregistrement",
+    "task_created": "{{userName}} a créé une tâche",
+    "product_assigned": "{{userName}} a assigné un produit",
+    "product_updated": "{{userName}} a mis à jour une assignation de produit",
+    "product_removed": "{{userName}} a retiré une assignation de produit",
+    "custom_fields_updated": "{{userName}} a mis à jour les champs personnalisés"
+  }
+}

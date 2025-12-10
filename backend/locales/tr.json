@@ -1,0 +1,14 @@
+{
+    "history": {
+    "created": "{{userName}} kaydı oluşturdu",
+    "updated": "{{userName}}, {{fieldName}} alanını \"{{oldValue}}\" değerinden \"{{newValue}}\" değerine güncelledi",
+    "status_changed": "{{userName}}, durumu \"{{oldValue}}\" değerinden \"{{newValue}}\" değerine değiştirdi",
+    "converted": "{{userName}}, potansiyel müşteriyi bir hesaba dönüştürdü",
+    "deleted": "{{userName}} kaydı sildi",
+    "task_created": "{{userName}} bir görev oluşturdu",
+    "product_assigned": "{{userName}} bir ürün atadı",
+    "product_updated": "{{userName}} bir ürün atamasını güncelledi",
+    "product_removed": "{{userName}} bir ürün atamasını kaldırdı",
+    "custom_fields_updated": "{{userName}} özel alanları güncelledi"
+  }
+}

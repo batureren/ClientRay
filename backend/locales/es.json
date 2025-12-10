@@ -1,0 +1,14 @@
+{
+    "history": {
+    "created": "{{userName}} creó el registro",
+    "updated": "{{userName}} actualizó el campo {{fieldName}} de \"{{oldValue}}\" a \"{{newValue}}\"",
+    "status_changed": "{{userName}} cambió el estado de \"{{oldValue}}\" a \"{{newValue}}\"",
+    "converted": "{{userName}} convirtió el prospecto en una cuenta",
+    "deleted": "{{userName}} eliminó el registro",
+    "task_created": "{{userName}} creó una tarea",
+    "product_assigned": "{{userName}} asignó un producto",
+    "product_updated": "{{userName}} actualizó la asignación de un producto",
+    "product_removed": "{{userName}} eliminó la asignación de un producto",
+    "custom_fields_updated": "{{userName}} actualizó los campos personalizados"
+  }
+}

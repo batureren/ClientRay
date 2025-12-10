@@ -1,0 +1,1133 @@
+{
+  "navigation": {
+    "leads": "Prospects",
+    "accounts": "Comptes",
+    "docs": "Documents",
+    "products": "Produits",
+    "tasks": "Tâches",
+    "dashboard": "Tableau de Bord",
+    "reports": "Rapports",
+    "campaign": "Campagne",
+    "email": "Email Marketing",
+    "database": "Importer/Exporter Données",
+    "home": "Accueil",
+    "personal": "Personnel",
+    "settings": "Paramètres",
+    "invoices": "Factures"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "add": "Ajouter",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "confirm": "Confirmer",
+    "user": "Utilisateur",
+    "status": "Statut",
+    "product": "Produit",
+    "count": "Nombre",
+    "value": "Valeur",
+    "noData": "Aucune donnée disponible.",
+    "fields": "Champs",
+    "resetToDefault": "Réinitialiser",
+    "done": "Terminé",
+    "callCategory": "Catégorie d'Appel",
+    "revenue": "Revenu",
+    "units": "Unités",
+    "accounts": "Comptes",
+    "account": "Compte",
+    "callTime": "Temps d'Appel",
+    "salesRep": "Représentant",
+    "totalSales": "Ventes Totales",
+    "rate": "Taux",
+    "performance": "Performance",
+    "performanceLevels": {
+      "excellent": "Excellent",
+      "good": "Bon",
+      "average": "Moyen",
+      "needsImprovement": "À Améliorer"
+    }
+  },
+  "metrics": {
+    "totalCalls": "Appels Totaux",
+    "successRate": "Taux de Réussite",
+    "meetings": "Réunions",
+    "salesValue": "Valeur des Ventes",
+    "products": "Produits",
+    "avgSale": "Vente Moy.",
+    "conversions": "Conversions",
+    "activities": "Activités"
+  },
+  "auth": {
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "welcomeBack": "Bon Retour",
+    "signInToAccount": "Connectez-vous à votre compte",
+    "enterUsername": "Entrez votre nom d'utilisateur",
+    "enterPassword": "Entrez votre mot de passe",
+    "showPassword": "Afficher le mot de passe",
+    "hidePassword": "Masquer le mot de passe",
+    "rememberMe": "Se souvenir de moi",
+    "forgotPassword": "Mot de passe oublié ?",
+    "signIn": "Se Connecter",
+    "signingIn": "Connexion en cours...",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "contactAdmin": "Contactez votre administrateur",
+    "validation": {
+      "usernameRequired": "Le nom d'utilisateur est requis",
+      "passwordRequired": "Le mot de passe est requis"
+    }
+  },
+  "leads": {
+    "title": "Gestion des Prospects",
+    "addNew": "Ajouter un Nouveau Prospect",
+    "name": "Nom",
+    "email": "Email",
+    "phone": "Téléphone",
+    "status": "Statut"
+  },
+  "tasks": {
+    "title": "Gestion des Tâches",
+    "dueDate": "Date d'Échéance",
+    "priority": "Priorité",
+    "assignedTo": "Assigné à"
+  },
+  "personal": {
+    "notes": "Notes",
+    "calendar": "Calendrier",
+    "projects": "Projets"
+  },
+  "relationships": {
+    "loadingBadge": "...",
+    "addRelationship": "Ajouter une Relation",
+    "createDescription": "Créer une nouvelle connexion de relation",
+    "searchIn": "Rechercher Dans",
+    "searchLabel": "Rechercher des {{type}}",
+    "searchPlaceholder": "Rechercher des {{type}}...",
+    "selectLabel": "Sélectionner un(e) {{type}}",
+    "selectedEntity": "{{type}} sélectionné(e)",
+    "relationshipType": "Type de Relation",
+    "selectRelationshipType": "Sélectionnez le type de relation",
+    "notesOptional": "Notes (Facultatif)",
+    "notesPlaceholder": "Notes supplémentaires sur cette relation...",
+    "createRelationship": "Créer la Relation",
+    "createError": "Échec de la création de la relation : {{error}}",
+    "editRelationship": "Modifier la Relation",
+    "editDescription": "Mettre à jour la relation avec {{name}}",
+    "notes": "Notes",
+    "updateRelationship": "Mettre à Jour la Relation",
+    "updateError": "Échec de la mise à jour de la relation : {{error}}",
+    "title": "Relations pour {{name}}",
+    "close": "Fermer",
+    "loadingRelationships": "Chargement des relations...",
+    "noRelationshipsFound": "Aucune relation trouvée",
+    "addFirstRelationship": "Ajouter la Première Relation",
+    "created": "Créé le",
+    "relatedEntity": "Personne/Entité Liée",
+    "relationship": "Relation",
+    "contact": "Contact",
+    "createdDate": "Créé le",
+    "actions": "Actions",
+    "deleteConfirmation": "Êtes-vous sûr de vouloir supprimer cette relation ?",
+    "deleteError": "Échec de la suppression de la relation",
+    "types": {
+      "spouse": "Conjoint(e)",
+      "father": "Père",
+      "mother": "Mère",
+      "son": "Fils",
+      "daughter": "Fille",
+      "brother": "Frère",
+      "sister": "Sœur",
+      "colleague": "Collègue",
+      "manager": "Manager",
+      "assistant": "Assistant(e)",
+      "business_partner": "Partenaire d'Affaires",
+      "client": "Client",
+      "vendor": "Fournisseur",
+      "referral": "Référence",
+      "friend": "Ami(e)",
+      "other": "Autre"
+    }
+  },
+  "profile": {
+    "leadTitle": "Profil du Prospect",
+    "accountTitle": "Profil du Compte",
+    "lead": "prospect",
+    "account": "compte",
+    "description": "Informations complètes du profil pour {{name}}",
+    "contactInfo": "Coordonnées",
+    "businessInfo": "Informations Commerciales",
+    "additionalInfo": "Informations Supplémentaires",
+    "systemInfo": "Informations Système",
+    "noProductsAssigned": "Aucun produit assigné",
+    "noTasks": "Aucune tâche",
+    "noCalls": "Aucun appel enregistré",
+    "boolean": {
+      "yes": "Oui",
+      "no": "Non"
+    },
+    "documents": {
+      "title": "Documents Associés",
+      "loading": "Chargement des documents...",
+      "none": "Aucun document trouvé pour ce {{type}}",
+      "size": "Taille",
+      "uploaded": "Téléchargé le",
+      "by": "Par",
+      "preview": "Aperçu du document",
+      "download": "Télécharger le document",
+      "bytes": "Octets",
+      "kb": "Ko",
+      "mb": "Mo",
+      "gb": "Go"
+    },
+    "productLabels": {
+      "code": "Code",
+      "quantity": "Quantité",
+      "unitPrice": "Prix Unitaire",
+      "total": "Total",
+      "discount": "Remise"
+    },
+    "taskLabels": {
+      "assignedTo": "Assigné à",
+      "due": "Échéance",
+      "priority": "Priorité"
+    },
+    "callLabels": {
+      "loggedBy": "Enregistré par",
+      "contact": "Contact",
+      "moreCalls": "... et {{count}} autres appels"
+    },
+    "taskCounts": {
+      "total": "Total",
+      "pending": "En attente",
+      "completed": "Terminé",
+      "overdue": "En retard"
+    },
+    "fields": {
+      "status": "Statut",
+      "created_at": "Créé le",
+      "updated_at": "Mis à jour le",
+      "contact_person": "Personne à Contacter",
+      "email": "Email",
+      "phone": "Téléphone",
+      "first_name": "Prénom",
+      "last_name": "Nom",
+      "primary_contact": "Contact Principal",
+      "company": "Entreprise",
+      "account_name": "Nom du Compte",
+      "industry": "Secteur",
+      "account_type": "Type de Compte",
+      "address": "Adresse",
+      "city": "Ville",
+      "state": "État/Région",
+      "zip": "Code Postal",
+      "postal_code": "Code Postal",
+      "country": "Pays",
+      "notes": "Notes",
+      "assigned_products": "Produits Assignés",
+      "tasks": "Tâches",
+      "calls": "Journaux d'appels",
+      "call_logs": "Journaux d'appels",
+      "account_calls": "Appels du Compte",
+      "task_counts": "Compteurs de Tâches"
+    },
+    "statuses": {
+      "new": "Nouveau",
+      "contacted": "Contacté",
+      "qualified": "Qualifié",
+      "proposal": "Proposition",
+      "negotiation": "Négociation",
+      "closed-won": "Gagné",
+      "closed-lost": "Perdu",
+      "active": "Actif",
+      "inactive": "Inactif",
+      "quoted": "Devis envoyé",
+      "ordered": "Commandé",
+      "delivered": "Livré",
+      "cancelled": "Annulé",
+      "completed": "Terminée",
+      "in-progress": "En cours",
+      "overdue": "En retard"
+    },
+    "callOutcomes": {
+      "successful": "Réussi",
+      "no_answer": "Pas de réponse",
+      "voicemail": "Messagerie vocale",
+      "busy": "Occupé",
+      "disconnected": "Déconnecté",
+      "meeting_scheduled": "Réunion planifiée"
+    },
+    "categories": {
+      "sale": "Vente",
+      "follow-up": "Suivi",
+      "informational": "Information",
+      "reminder": "Rappel",
+      "support": "Support",
+      "meeting": "Réunion",
+      "negotiation": "Négociation"
+    },
+    "errors": {
+      "fetchFailed": "Échec de la récupération des documents",
+      "loadFailed": "Échec du chargement des documents",
+      "downloadFailed": "Échec du téléchargement du document"
+    }
+  },
+  "leadsTab": {
+    "title": "Gestion des Prospects",
+    "addLead": "Ajouter un Prospect",
+    "allLeads": "Tous les Prospects",
+    "description": "Gérez et suivez vos prospects de vente",
+    "searchPlaceholder": "Rechercher des prospects...",
+    "loadingLeads": "Chargement des prospects...",
+    "noLeads": "Aucun prospect trouvé",
+    "openMenu": "Ouvrir le menu",
+    "createdLabel": "Créé",
+    "updatedLabel": "Mis à jour",
+    "pagination": {
+      "showing": "Affichage de {{start}} à {{end}} sur {{total}} prospects",
+      "perPage": "Par page :"
+    },
+    "table": {
+      "name": "Nom",
+      "contact": "Contact",
+      "sourceStatus": "Source & Statut",
+      "tasks": "Tâches",
+      "calls": "Appels",
+      "relations": "Relations",
+      "actions": "Actions"
+    },
+    "actions": {
+      "relationships": "Relations",
+      "logCall": "Enregistrer un appel",
+      "callHistory": "Historique des appels",
+      "leadHistory": "Historique du prospect",
+      "addTask": "Ajouter une tâche",
+      "convert": "Convertir"
+    },
+    "tasks": {
+      "title": "Tâches pour {{name}}",
+      "closeView": "Fermer la vue des tâches",
+      "overdueBadge": "{{total}} ({{count}} en retard)",
+      "pendingBadge": "{{total}} ({{count}} en attente)"
+    },
+    "calls": {
+      "recentBadge": "{{total}} ({{count}} récent)"
+    },
+    "fields": {
+      "visible": "Champs Visibles",
+      "available": "Champs Disponibles",
+      "standard": "Champs Standards",
+      "custom": "Champs Personnalisés"
+    }
+  },
+  "accountsTab": {
+    "title": "Gestion des Comptes",
+    "allAccounts": "Tous les Comptes",
+    "description": "Gérez vos comptes clients et les produits assignés",
+    "searchPlaceholder": "Rechercher des comptes...",
+    "loadingAccounts": "Chargement des comptes...",
+    "noAccounts": "Aucun compte trouvé",
+    "openMenu": "Ouvrir le menu",
+    "createdLabel": "Créé",
+    "updatedLabel": "Mis à jour",
+    "pagination": {
+      "showing": "Affichage de {{start}} à {{end}} sur {{total}} comptes",
+      "perPage": "Par page :"
+    },
+    "mobile": {
+      "showProducts": "Afficher",
+      "hideProducts": "Masquer"
+    },
+    "table": {
+      "accountName": "Nom du Compte",
+      "contact": "Contact",
+      "typeIndustry": "Type & Secteur",
+      "products": "Produits",
+      "total": "Total",
+      "tasks": "Tâches",
+      "calls": "Appels",
+      "relations": "Relations",
+      "actions": "Actions"
+    },
+    "actions": {
+      "relationships": "Relations",
+      "logCall": "Enregistrer un appel",
+      "callHistory": "Historique des appels",
+      "accountHistory": "Historique du compte",
+      "edit": "Modifier",
+      "assignProduct": "Assigner un produit",
+      "addTask": "Ajouter une tâche",
+      "delete": "Supprimer"
+    },
+    "product": {
+      "title": "Produits Assignés :",
+      "count_one": "{{count}} produit",
+      "count_other": "{{count}} produits",
+      "purchase_date": "Acheté",
+      "created_at": "Créé",
+      "code": "Code",
+      "qty": "Qté",
+      "unit": "Unité",
+      "total": "Total",
+      "discount": "Remise",
+      "notes": "Notes",
+      "deleteConfirm": "Êtes-vous sûr de vouloir retirer ce produit du compte ?"
+    },
+    "tasks": {
+      "title": "Tâches pour {{name}}",
+      "closeView": "Fermer la vue des tâches",
+      "overdueBadge": "{{total}} ({{count}} en retard)",
+      "pendingBadge": "{{total}} ({{count}} en attente)"
+    },
+    "calls": {
+      "recentBadge": "{{total}} ({{count}} récent)"
+    },
+    "errors": {
+      "productRemoveFailed": "Échec de la suppression du produit"
+    }
+  },
+  "taskNotifications": {
+    "title": "Notifications de Tâches",
+    "description": {
+      "pending_one": "Vous avez 1 tâche en attente",
+      "pending_other": "Vous avez {{count}} tâches en attente",
+      "overdue": "({{count}} en retard)",
+      "mentions_one": "({{count}} mention)",
+      "mentions_other": "({{count}} mentions)"
+    },
+    "loading": "Chargement...",
+    "overdueTitle": "Tâches en Retard ({{count}})",
+    "upcomingTitle": "Tâches à Venir ({{count}})",
+    "mentionsTitle": "Tâches où vous êtes mentionné(e) ({{count}})",
+    "unreadMentions_one": "Vous avez 1 mention non lue",
+    "unreadMentions_other": "Vous avez {{count}} mentions non lues",
+    "noNotifications": "Aucune notification de tâche pour le moment.",
+    "task": {
+      "lead": "Prospect : {{name}}",
+      "account": "Compte : {{name}}",
+      "general": "Tâche Générale"
+    },
+    "priorities": {
+      "urgent": "Urgent",
+      "high": "Élevée",
+      "medium": "Moyenne",
+      "low": "Faible"
+    },
+    "mentionTypes": {
+      "comment": "a commenté",
+      "assignment": "vous a assigné(e)",
+      "status_change": "a changé le statut",
+      "default": "vous a mentionné(e)"
+    },
+    "dates": {
+      "justNow": "À l'instant",
+      "overdueHours": "{{count}}h de retard",
+      "overdueDays": "{{count}}j de retard",
+      "remainingHours": "{{count}}h restantes",
+      "remainingDays": "{{count}}j restants",
+      "agoHours": "il y a {{count}}h",
+      "agoDay": "il y a 1j",
+      "agoDays": "il y a {{count}}j"
+    }
+  },
+  "dataFields": {
+    "backToSettings": "Paramètres",
+    "title": "Champs et Relations",
+    "tabs": {
+      "customFields": "Champs Personnalisés",
+      "fieldMappings": "Mappages de Champs",
+      "formulaFields": "Champs de Formule",
+      "chainFields": "Champs de Chaîne"
+    }
+  },
+  "settings": {
+    "loading": "Chargement du profil...",
+    "backToHome": "Accueil",
+    "title": "Paramètres",
+    "profile": {
+      "title": "Informations sur le Profil",
+      "alt": "Profil",
+      "uploadButton": "Télécharger une Photo",
+      "imageRecommendation": "Recommandé : Image carrée, sera redimensionnée en 126×126px et convertie en WebP",
+      "firstNameLabel": "Prénom *",
+      "lastNameLabel": "Nom *",
+      "emailLabel": "Email *",
+      "updateButton": "Mettre à Jour le Profil",
+      "updatingButton": "Mise à jour...",
+      "success": "Profil mis à jour avec succès !",
+      "successCheck": "succès",
+      "imageFileError": "Veuillez sélectionner un fichier image",
+      "errors": {
+        "firstNameRequired": "Le prénom est requis",
+        "lastNameRequired": "Le nom est requis",
+        "emailRequired": "L'email est requis",
+        "updateFailed": "Échec de la mise à jour du profil. Veuillez réessayer.",
+        "genericError": "Une erreur s'est produite lors de la mise à jour de votre profil."
+      }
+    },
+    "password": {
+      "title": "Changer le Mot de Passe",
+      "newPasswordLabel": "Nouveau Mot de Passe",
+      "confirmPasswordLabel": "Confirmer le Nouveau Mot de Passe",
+      "changeButton": "Changer le Mot de Passe",
+      "changingButton": "Changement...",
+      "success": "Mot de passe changé avec succès !",
+      "successCheck": "succès",
+      "errors": {
+        "noMatch": "Les nouveaux mots de passe ne correspondent pas",
+        "tooShort": "Le nouveau mot de passe doit comporter au moins 6 caractères",
+        "changeFailed": "Échec du changement de mot de passe. Veuillez vérifier votre mot de passe actuel."
+      }
+    },
+    "fields": {
+      "title": "Champs et Relations",
+      "description": "Personnalisez les champs de données pour des modules comme Prospects et Comptes pour les adapter aux besoins de votre entreprise.",
+      "button": "Gérer les Champs Personnalisés",
+      "note": "Ajoutez de nouveaux champs, modifiez les propriétés et définissez des relations entre les objets de données."
+    },
+    "email": {
+      "title": "Configuration Email",
+      "description": "Configurez les fournisseurs d'email, testez les connexions et surveillez les campagnes d'email.",
+      "button": "Paramètres du Fournisseur d'Email",
+      "note": "Gérez les configurations Gmail, SendGrid, AWS SES et SMTP"
+    },
+    "form2lead": {
+      "title": "Générateur Form2Lead",
+      "description": "Créez des formulaires HTML personnalisables qui génèrent automatiquement des prospects lorsqu'ils sont soumis sur votre site Web.",
+      "button": "Créer un Formulaire de Prospect",
+      "note": "Générez du code HTML/JSX pour les formulaires de capture de prospects qui s'intègrent directement à votre CRM"
+    },
+    "theme": {
+      "title": "Thème",
+      "darkMode": "Mode Sombre"
+    },
+    "plugins": {
+      "title": "Plugins"
+    }
+  },
+  "leadCallHistory": {
+    "title": "Historique des Appels - {{name}}",
+    "description": "Voir tous les journaux d'appels et statistiques pour ce prospect",
+    "stats": {
+      "title": "Statistiques d'Appels",
+      "total": "Appels Totals",
+      "successful": "Réussis",
+      "avg": "Min Moy.",
+      "sales": "Appels de Vente",
+      "total_mobile": "Total",
+      "success_mobile": "Succès",
+      "avg_mobile": "Min Moy",
+      "sales_mobile": "Ventes"
+    },
+    "logTitle_one": "Historique du Journal d'Appels ({{count}})",
+    "logTitle_other": "Historique du Journal d'Appels ({{count}})",
+    "loading": "Chargement de l'historique des appels...",
+    "noCalls": "Aucun appel enregistré pour l'instant",
+    "atTime": "à",
+    "notes": "Notes",
+    "deleteConfirm": "Êtes-vous sûr de vouloir supprimer ce journal d'appel ?",
+    "deleteError": "Échec de la suppression du journal d'appel",
+    "confirmDelete": {
+      "title": "Confirmer la Suppression",
+      "description": "Êtes-vous sûr de vouloir supprimer ce journal d'appel ? Cette action ne peut pas être annulée."
+    }
+  },
+  "leadHistory": {
+    "title": "Détails pour {{name}}",
+    "loading": "Chargement de l'historique...",
+    "noHistory": "Aucun historique trouvé pour ce prospect.",
+    "byUser": "par {{name}}",
+    "unknownUser": "Utilisateur Inconnu",
+    "actionTypes": {
+      "created": "CRÉÉ",
+      "updated": "MIS À JOUR",
+      "converted": "CONVERTI",
+      "deleted": "SUPPRIMÉ",
+      "status_changed": "STATUT CHANGÉ",
+      "task_created": "TÂCHE CRÉÉE",
+      "task_updated": "TÂCHE MISE À JOUR",
+      "task_deleted": "TÂCHE SUPPRIMÉE"
+    },
+    "summary": {
+      "created": "Créé",
+      "updated": "Mis à Jour",
+      "converted": "Converti",
+      "statusChanges": "Changements de Statut",
+      "taskActivities": "Activités de Tâche"
+    }
+  },
+  "accountCallHistory": {
+    "title": "Historique des Appels - {{name}}",
+    "description": "Voir tous les journaux d'appels et statistiques pour ce compte",
+    "stats": {
+      "title": "Statistiques d'Appels",
+      "total": "Appels Totals",
+      "successful": "Réussis",
+      "avg": "Min Moy.",
+      "meetings": "Réunions",
+      "total_mobile": "Total",
+      "success_mobile": "Succès",
+      "avg_mobile": "Min Moy",
+      "meetings_mobile": "Réunions"
+    },
+    "logTitle_one": "Historique du Journal d'Appels ({{count}})",
+    "logTitle_other": "Historique du Journal d'Appels ({{count}})",
+    "loading": "Chargement de l'historique des appels...",
+    "noCalls": "Aucun appel enregistré pour l'instant",
+    "atTime": "à",
+    "notes": "Notes",
+    "deleteConfirm": "Êtes-vous sûr de vouloir supprimer ce journal d'appel ?",
+    "deleteError": "Échec de la suppression du journal d'appel",
+    "confirmDelete": {
+      "title": "Confirmer la Suppression",
+      "description": "Êtes-vous sûr de vouloir supprimer ce journal d'appel ? Cette action ne peut pas être annulée."
+    }
+  },
+  "accountHistory": {
+    "title": "Historique pour {{name}}",
+    "loading": "Chargement de l'historique...",
+    "noHistory": "Aucun historique trouvé pour ce compte.",
+    "byUser": "par {{name}}",
+    "unknownUser": "Utilisateur Inconnu",
+    "actionTypes": {
+      "created": "CRÉÉ",
+      "updated": "MIS À JOUR",
+      "product_assigned": "PRODUIT ASSIGNÉ",
+      "product_updated": "PRODUIT MIS À JOUR",
+      "product_removed": "PRODUIT RETIRÉ",
+      "task_created": "TÂCHE CRÉÉE",
+      "deleted": "SUPPRIMÉ"
+    },
+    "summary": {
+      "created": "Créé",
+      "updated": "Mis à Jour",
+      "productsAssigned": "Produits Assignés",
+      "productsUpdated": "Produits Mis à Jour",
+      "tasksCreated": "Tâches Créées"
+    }
+  },
+  "createAccountCallDialog": {
+    "title": "Enregistrer un Appel de Compte",
+    "description": "Enregistrer un appel pour {{name}}",
+    "labels": {
+      "category": "Catégorie *",
+      "outcome": "Résultat de l'Appel",
+      "dateTime": "Date et Heure de l'Appel *",
+      "contactPerson": "Personne Contactée",
+      "duration": "Durée (minutes)",
+      "notes": "Notes"
+    },
+    "placeholders": {
+      "selectCategory": "Sélectionner la catégorie d'appel",
+      "contactPerson": "Avec qui avez-vous parlé ?",
+      "optional": "Optionnel",
+      "notes": "Résumé de l'appel, prochaines étapes, etc."
+    },
+    "buttons": {
+      "logCall": "Enregistrer l'Appel",
+      "logging": "Enregistrement..."
+    },
+    "errors": {
+      "categoryRequired": "La catégorie est requise",
+      "dateRequired": "La date et l'heure de l'appel sont requises",
+      "durationInvalid": "La durée doit être un nombre positif",
+      "submitFailed": "Échec de l'enregistrement de l'appel. Veuillez réessayer."
+    }
+  },
+  "createLeadCallDialog": {
+    "title": "Enregistrer un Appel",
+    "description": {
+      "base": "Enregistrer un appel pour {{name}}",
+      "atCompany": " chez {{company}}"
+    },
+    "labels": {
+      "category": "Catégorie d'Appel *",
+      "date": "Date de l'Appel *",
+      "time": "Heure de l'Appel *",
+      "outcome": "Résultat de l'Appel",
+      "duration": "Durée (minutes)",
+      "notes": "Notes d'Appel"
+    },
+    "placeholders": {
+      "selectCategory": "Sélectionner une catégorie",
+      "selectOutcome": "Sélectionner un résultat",
+      "optional": "Optionnel",
+      "notes": "Qu'est-ce qui a été discuté pendant l'appel ?"
+    },
+    "buttons": {
+      "logCall": "Enregistrer l'Appel",
+      "logging": "Enregistrement..."
+    },
+    "errors": {
+      "dateTimeRequired": "Veuillez sélectionner la date et l'heure de l'appel",
+      "submitFailed": "Échec de l'enregistrement de l'appel. Veuillez réessayer."
+    }
+  },
+  "convertLeadDialog": {
+    "title": "Convertir le Prospect en Compte",
+    "description": "Convertir {{name}} en compte",
+    "labels": {
+      "accountName": "Nom du Compte",
+      "accountType": "Type de Compte",
+      "industry": "Secteur d'Activité",
+      "description": "Description"
+    },
+    "accountTypes": {
+      "prospect": "Prospect",
+      "customer": "Client",
+      "partner": "Partenaire",
+      "vendor": "Fournisseur"
+    },
+    "buttons": {
+      "convert": "Convertir en Compte",
+      "converting": "Conversion..."
+    }
+  },
+  "createLeadDialog": {
+    "title": "Créer un Nouveau Prospect",
+    "description": "Ajoutez un nouveau prospect à votre système CRM. Les champs marqués d'un * sont obligatoires.",
+    "status": {
+      "new": "Nouveau",
+      "contacted": "Contacté",
+      "qualified": "Qualifié",
+      "lost": "Perdu",
+      "current": "Actuel",
+      "setStatus": "Définir le statut sur {{label}}"
+    },
+    "labels": {
+      "status": "Statut du Prospect",
+      "firstName": "Prénom *",
+      "lastName": "Nom *",
+      "email": "Email *",
+      "phone": "Téléphone",
+      "company": "Entreprise",
+      "website": "Site Web",
+      "address": "Adresse",
+      "city": "Ville",
+      "state": "État / Province",
+      "postalCode": "Code Postal",
+      "country": "Pays",
+      "leadSource": "Source du Prospect",
+      "notes": "Notes",
+      "additionalInfo": "Informations Supplémentaires"
+    },
+    "placeholders": {
+      "leadSource": "ex: Site Web, Recommandation, Démarchage"
+    },
+    "buttons": {
+      "create": "Créer le Prospect",
+      "creating": "Création..."
+    }
+  },
+  "editLeadDialog": {
+    "title": "Modifier le Prospect",
+    "description": "Mettez à jour les détails du prospect. Les champs marqués d'un * sont obligatoires.",
+    "convertedStatus": "Converti",
+    "labels": {
+      "status": "Statut du Prospect"
+    },
+    "buttons": {
+      "save": "Enregistrer les Modifications",
+      "saving": "Enregistrement..."
+    }
+  },
+  "docsTab": {
+    "title": "Centre de Documents",
+    "uploadButton": "Télécharger un Document",
+    "cardTitle": "Tous les Documents Téléchargés",
+    "cardDescription": "Recherchez et gérez tous les fichiers des prospects et des comptes.",
+    "searchPlaceholder": "Rechercher par nom de fichier ou personne...",
+    "filters": {
+      "button": "Filtres",
+      "all": "Tous",
+      "leads": "Prospects",
+      "accounts": "Comptes",
+      "leadsOnly": "Prospects seulement",
+      "accountsOnly": "Comptes seulement"
+    },
+    "viewModes": {
+      "list": "Liste",
+      "folders": "Dossiers"
+    },
+    "pagination": {
+      "showing": "Affichage de {{start}} à {{end}} sur {{total}} documents",
+      "perPage": "Par page :"
+    },
+    "table": {
+      "fileName": "Nom du Fichier",
+      "relatedTo": "Associé à",
+      "typeSize": "Type / Taille",
+      "uploadedBy": "Téléchargé par",
+      "dateUploaded": "Date de Téléchargement",
+      "actions": "Actions"
+    },
+    "noDocs": "Aucun document trouvé.",
+    "folderFileCount_one": "{{count}} fichier",
+    "folderFileCount_other": "{{count}} fichiers",
+    "tooltips": {
+      "preview": "Aperçu",
+      "download": "Télécharger",
+      "delete": "Supprimer"
+    },
+    "preview": {
+      "title": "Aperçu",
+      "notAvailable": "Aperçu non disponible pour ce type de fichier.",
+      "fileType": "Type de fichier : {{type}}",
+      "size": "Taille : {{size}}",
+      "downloadButton": "Télécharger"
+    },
+    "deleteConfirm": {
+      "title": "Supprimer le Document",
+      "description": "Êtes-vous sûr de vouloir supprimer ce document ? Cette action est irréversible."
+    },
+    "errors": {
+      "deleteFailed": "Échec de la suppression du document.",
+      "downloadFailed": "Échec du téléchargement du fichier."
+    }
+  },
+  "uploadDocDialog": {
+    "title": "Télécharger un Nouveau Document",
+    "description": "Sélectionnez un fichier et associez-le à un prospect ou à un compte existant.",
+    "labels": {
+      "step1": "Étape 1 : Choisissez un fichier",
+      "step2": "Étape 2 : Associer à un Prospect ou un Compte"
+    },
+    "placeholders": {
+      "search": "Rechercher un prospect ou un compte..."
+    },
+    "searching": "Recherche...",
+    "entityTypes": {
+      "lead": "Prospect",
+      "account": "Compte"
+    },
+    "buttons": {
+      "uploadAndLink": "Télécharger et Associer",
+      "uploading": "Téléchargement..."
+    },
+    "errors": {
+      "fileAndEntityRequired": "Veuillez sélectionner un fichier et l'associer à un prospect ou à un compte.",
+      "uploadFailed": "Le téléchargement du fichier a échoué. Veuillez réessayer."
+    }
+  },
+  "notesTab": {
+    "subTabs": {
+      "myNotes": "Mes Notes",
+      "sharedWithMe": "Partagées avec Moi"
+    },
+    "toolbar": {
+      "searchPlaceholder": "Rechercher des notes...",
+      "viewModeList": "Liste",
+      "viewModeGrid": "Grille",
+      "layers": "Couches",
+      "addNote": "Ajouter une Note"
+    },
+    "grid": {
+      "bringForward": "Mettre au Premier Plan",
+      "sendBackward": "Mettre à l'Arrière-plan",
+      "share": "Partager",
+      "delete": "Supprimer",
+      "unshare": "Retirer de ma Vue"
+    },
+    "list": {
+      "sharedBy": "Partagée par {{name}}",
+      "sharedWith": "Partagée avec {{count}} personnes",
+      "noShared": "Non partagée",
+      "lastUpdated": "Dernière mise à jour :"
+    },
+    "noteModal": {
+      "editTitle": "Modification de la Note",
+      "viewTitle": "Détails de la Note",
+      "lastUpdated": "Dernière mise à jour par {{name}} le {{date}}",
+      "createdBy": "Créée par {{name}} le {{date}}",
+      "notShared": "Non partagée.",
+      "sharedWith": "Partagée avec :",
+      "owner": "(Propriétaire)",
+      "buttons": {
+        "edit": "Modifier",
+        "save": "Enregistrer",
+        "saving": "Enregistrement...",
+        "cancel": "Annuler",
+        "share": "Partager",
+        "delete": "Supprimer la Note",
+        "unshare": "Retirer de la Vue"
+      }
+    },
+    "shareModal": {
+      "title": "Partager la Note",
+      "description": "Partager '{{title}}' avec d'autres",
+      "searchPlaceholder": "Rechercher des utilisateurs...",
+      "noUsersFound": "Aucun utilisateur trouvé.",
+      "alreadySharedWith": "Déjà partagée avec cet utilisateur.",
+      "shareWith": "Partager Avec",
+      "permissions": "Permissions",
+      "canView": "Peut Voir",
+      "canEdit": "Peut Modifier",
+      "shareButton": "Partager",
+      "sharingButton": "Partage...",
+      "sharedUsersTitle": "Actuellement Partagée Avec",
+      "removeAccess": "Retirer l'Accès",
+      "close": "Fermer"
+    },
+    "layerPanel": {
+      "title": "Couches de Notes",
+      "reorder": "Glissez pour réorganiser les couches. Le haut est au premier plan."
+    },
+    "newNote": {
+      "title": "Nouvelle Note",
+      "content": "Cliquez pour modifier..."
+    },
+    "confirmations": {
+      "delete": "Êtes-vous sûr de vouloir supprimer cette note ?",
+      "unshare": "Êtes-vous sûr de vouloir retirer cette note partagée de votre vue ? Cette action est irréversible."
+    },
+    "errors": {
+      "loadPreferences": "Erreur lors du chargement des préférences utilisateur :",
+      "saveGrid": "Erreur lors de la sauvegarde des préférences de la grille :",
+      "saveView": "Erreur lors de la sauvegarde des préférences du mode d'affichage :"
+    },
+    "colors": {
+      "white": "Blanc",
+      "yellow": "Jaune",
+      "blue": "Bleu",
+      "green": "Vert",
+      "pink": "Rose",
+      "purple": "Violet",
+      "orange": "Orange",
+      "gray": "Gris",
+      "indigo": "Indigo",
+      "teal": "Sarcelle",
+      "dangerRed": "Rouge Danger",
+      "warningAmber": "Ambre Avertissement",
+      "successGreen": "Vert Succès",
+      "infoBlue": "Bleu Info",
+      "deepPurple": "Violet Foncé",
+      "charcoal": "Charbon"
+    }
+  },
+  "campaignsTab": {
+    "title": "Gestion des Campagnes",
+    "createCampaign": "Créer une Campagne",
+    "allCampaigns": "Toutes les Campagnes",
+    "description": "Gérez et suivez vos campagnes marketing",
+    "searchPlaceholder": "Rechercher des campagnes...",
+    "loadingCampaigns": "Chargement des campagnes...",
+    "noCampaigns": "Aucune campagne trouvée.",
+    "openMenu": "Ouvrir le menu",
+    "openCampaign": "Campagne Ouverte",
+    "pagination": {
+      "showing": "Affichage de {{start}} à {{end}} sur {{total}} campagnes",
+      "perPage": "Par page :"
+    },
+    "filters": {
+      "status": "Statut",
+      "type": "Type",
+      "goalType": "Type d'Objectif",
+      "allStatuses": "Tous les Statuts",
+      "allTypes": "Tous les Types",
+      "allGoalTypes": "Tous les Types d'Objectifs"
+    },
+    "status": {
+      "active": "Actif",
+      "inactive": "Inactif",
+      "completed": "Terminée",
+      "paused": "En Pause"
+    },
+    "type": {
+      "lead": "Prospect",
+      "account": "Compte"
+    },
+    "goalType": {
+      "conversion": "Conversion",
+      "newAdded": "Nouveaux Ajoutés",
+      "statusChange": "Changement de Statut",
+      "sales": "Ventes",
+      "revenue": "Revenu",
+      "meetings": "Réunions"
+    },
+    "table": {
+      "name": "Nom",
+      "type": "Type",
+      "goal": "Objectif",
+      "progress": "Progression",
+      "participants": "Participants",
+      "dates": "Dates",
+      "status": "Statut",
+      "actions": "Actions",
+      "target": "Cible"
+    },
+    "actions": {
+      "viewDetails": "Voir les Détails",
+      "manageParticipants": "Gérer les Participants"
+    }
+  },
+  "manageParticipants": {
+    "title": "Gérer les Participants pour '{{campaignName}}'",
+    "description": "Ajoutez ou retirez des {{type}}s de cette campagne.",
+    "unnamed": "Entité sans nom",
+    "selected": "sélectionné(s)",
+    "addSelected": "Ajouter Sélectionné",
+    "loading": "Chargement...",
+    "noCurrentParticipants": "Cette campagne n'a aucun participant actif.",
+    "noAvailableEntities": "Aucune autre entité disponible à ajouter.",
+    "noSearchResults": "Aucune entité trouvée pour votre recherche.",
+    "searchPlaceholder": "Rechercher un(e) {{type}}...",
+    "tabs": {
+      "current": "Participants Actuels",
+      "add": "Ajouter"
+    },
+    "status": {
+      "active": "Actif",
+      "completed": "Terminé",
+      "removed": "Retiré"
+    },
+    "errors": {
+      "fetchParticipantsFailed": "Échec de la récupération des participants actuels.",
+      "fetchEntitiesFailed": "Échec de la récupération des entités disponibles.",
+      "addFailed": "Échec de l'ajout des participants.",
+      "removeFailed": "Échec de la suppression du participant."
+    }
+  },
+  "createCampaignDialog": {
+    "title": "Créer une Nouvelle Campagne",
+    "description": "Configurez une nouvelle campagne marketing pour suivre les objectifs et les participants.",
+    "fields": {
+      "name": "Nom de la Campagne",
+      "description": "Description",
+      "type": "Type de Campagne",
+      "goalType": "Type d'Objectif",
+      "goalValue": "Valeur de l'Objectif",
+      "openCampaign": "Campagne à Durée Indéterminée",
+      "openCampaignHelp": "Se déroule indéfiniment sans date de fin.",
+      "startDate": "Date de Début",
+      "endDate": "Date de Fin",
+      "currency": "Devise"
+    },
+    "placeholders": {
+      "name": "ex: Lancement Produit T4",
+      "description": "Décrivez brièvement le but de la campagne.",
+      "type": "Sélectionnez un type",
+      "goalType": "Sélectionnez un objectif",
+      "goalValue": "ex: 10000 ou 50",
+      "startDate": "Choisissez une date de début",
+      "endDate": "Choisissez une date de fin"
+    },
+    "buttons": {
+      "create": "Créer la Campagne",
+      "creating": "Création..."
+    },
+    "validation": {
+      "nameRequired": "Le nom de la campagne est requis.",
+      "typeRequired": "Le type de campagne est requis.",
+      "goalTypeRequired": "Le type d'objectif est requis.",
+      "goalValueInvalid": "La valeur de l'objectif doit être un nombre valide.",
+      "startDateRequired": "La date de début est requise pour les campagnes à durée déterminée.",
+      "endDateRequired": "La date de fin est requise pour les campagnes à durée déterminée.",
+      "endDateAfterStart": "La date de fin doit être postérieure à la date de début."
+    },
+    "errors": {
+      "createFailed": "Échec de la création de la campagne. Veuillez réessayer."
+    }
+  },
+  "deleteCampaignDialog": {
+    "title": "Supprimer la Campagne",
+    "description": "Cette action est irréversible.",
+    "campaignName": "Nom de la Campagne",
+    "warning": "Ceci supprimera définitivement la campagne et toutes ses données associées."
+  },
+  "campaignDetails": {
+    "noDescription": "Aucune description fournie pour cette campagne.",
+    "tabs": {
+      "overview": "Aperçu",
+      "participants": "Participants",
+      "activities": "Activités",
+      "analytics": "Analyses"
+    },
+    "overview": {
+      "information": "Informations sur la Campagne",
+      "status": "Statut",
+      "type": "Type",
+      "goalType": "Type d'Objectif",
+      "duration": "Durée",
+      "createdBy": "Créé par",
+      "createdAt": "Créé le",
+      "progress": "Progression de l'Objectif",
+      "target": "Cible",
+      "current": "Actuel",
+      "openCampaign": "Durée Indéterminée",
+      "progressDescription": "{{percentage}}% de l'objectif atteint. Il reste {{remaining}} pour atteindre la cible.",
+      "noGoalSet": "Aucune valeur d'objectif spécifique n'a été définie pour cette campagne.",
+      "quickStats": "Statistiques Rapides"
+    },
+    "stats": {
+      "totalParticipants": "Participants Totals",
+      "activeParticipants": "Actifs",
+      "completedParticipants": "Terminés",
+      "totalActivities": "Activités Totales"
+    },
+    "participants": {
+      "noParticipants": "Aucun participant n'a encore été ajouté à cette campagne.",
+      "joinedAt": "Rejoint le",
+      "contribution": "Contribution"
+    },
+    "activities": {
+      "noActivities": "Il n'y a pas encore d'activités enregistrées pour cette campagne.",
+      "byUser": "par {{name}}"
+    },
+    "analytics": {
+      "noData": "Les données analytiques ne sont pas encore disponibles pour cette campagne.",
+      "pacing": {
+        "title": "Rythme et Prévisions",
+        "description": "Vérifiez si la campagne est en bonne voie pour atteindre son objectif avant la date de fin.",
+        "onTrack": "Dans les temps",
+        "behindTrack": "En retard",
+        "projected": "Projection d'atteindre {{value}}",
+        "daysElapsed": "Jours Écoulés",
+        "daysRemaining": "Jours Restants",
+        "currentPace": "Rythme Actuel / Jour",
+        "requiredPace": "Rythme Requis / Jour"
+      },
+      "topPerformers": "Meilleurs Contributeurs",
+      "noPerformers": "Aucun utilisateur n'a encore contribué à l'objectif.",
+      "contribution": "Contribution",
+      "leadStatusBreakdown": "Répartition par Statut de Prospect",
+      "productRevenueBreakdown": "Répartition des Revenus par Produit",
+      "callCategoriesBreakdown": "Répartition par Catégorie d'Appel",
+      "mostActiveAccounts": "Comptes les Plus Actifs",
+      "salesPerformance": {
+        "title": "Détails de la Performance des Ventes",
+        "description": "Métriques de vente détaillées et indicateurs de performance",
+        "totalSalesValue": "Valeur Totale des Ventes",
+        "productsSold": "Produits Vendus",
+        "avgSaleValue": "Valeur Vente Moy.",
+        "highestSale": "Vente la Plus Élevée"
+      },
+      "conversionPerformance": {
+        "title": "Détails de la Performance de Conversion",
+        "description": "Métriques de conversion détaillées et répartition des activités",
+        "totalConversions": "Conversions Totales",
+        "totalActivities": "Activités Totales",
+        "conversionRate": "Taux de Conversion"
+      }
+    },
+    "participantStatus": {
+      "active": "Actif",
+      "completed": "Terminé",
+      "removed": "Retiré"
+    }
+  },
+  "editCampaignDialog": {
+    "title": "Modifier la Campagne",
+    "description": "Mettre à jour les détails de la campagne : {{name}}",
+    "buttons": {
+      "submit": "Enregistrer les Modifications"
+    },
+    "errors": {
+      "updateFailed": "Échec de la mise à jour de la campagne. Veuillez réessayer."
+    }
+  }
+}

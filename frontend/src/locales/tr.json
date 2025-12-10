@@ -1,0 +1,1133 @@
+{
+  "navigation": {
+    "leads": "Potansiyel Müşteriler",
+    "accounts": "Hesaplar",
+    "docs": "Belgeler",
+    "products": "Ürünler",
+    "tasks": "Görevler",
+    "dashboard": "Kontrol Paneli",
+    "reports": "Raporlar",
+    "campaign": "Kampanya",
+    "email": "E-posta Pazarlama",
+    "database": "Veri İçe/Dışa Aktar",
+    "home": "Ana Sayfa",
+    "personal": "Kişisel",
+    "settings": "Ayarlar",
+    "invoices": "Faturalar"
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "add": "Ekle",
+    "search": "Ara",
+    "filter": "Filtre",
+    "confirm": "Onayla",
+    "user": "Kullanıcı",
+    "status": "Durum",
+    "product": "Ürün",
+    "count": "Sayı",
+    "value": "Değer",
+    "noData": "Veri bulunmuyor.",
+    "fields": "Alanlar",
+    "resetToDefault": "Varsayılana Sıfırla",
+    "done": "Bitti",
+    "callCategory": "Arama Kategorisi",
+    "revenue": "Gelir",
+    "units": "Birim",
+    "accounts": "Hesaplar",
+    "account": "Hesap",
+    "callTime": "Arama Süresi",
+    "salesRep": "Satış Temsilcisi",
+    "totalSales": "Toplam Satışlar",
+    "rate": "Oran",
+    "performance": "Performans",
+    "performanceLevels": {
+      "excellent": "Mükemmel",
+      "good": "İyi",
+      "average": "Ortalama",
+      "needsImprovement": "Geliştirilmesi Gerekiyor"
+    }
+  },
+  "metrics": {
+    "totalCalls": "Toplam Aramalar",
+    "successRate": "Başarı Oranı",
+    "meetings": "Toplantılar",
+    "salesValue": "Satış Değeri",
+    "products": "Ürünler",
+    "avgSale": "Ort. Satış",
+    "conversions": "Dönüşümler",
+    "activities": "Aktiviteler"
+  },
+  "auth": {
+    "login": "Giriş Yap",
+    "logout": "Çıkış Yap",
+    "username": "Kullanıcı Adı",
+    "password": "Şifre",
+    "welcomeBack": "Tekrar Hoş Geldiniz",
+    "signInToAccount": "Hesabınıza giriş yapın",
+    "enterUsername": "Kullanıcı adınızı girin",
+    "enterPassword": "Şifrenizi girin",
+    "showPassword": "Şifreyi göster",
+    "hidePassword": "Şifreyi gizle",
+    "rememberMe": "Beni hatırla",
+    "forgotPassword": "Şifrenizi mi unuttunuz?",
+    "signIn": "Giriş Yap",
+    "signingIn": "Giriş yapılıyor...",
+    "noAccount": "Hesabınız yok mu?",
+    "contactAdmin": "Yöneticinizle iletişime geçin",
+    "validation": {
+      "usernameRequired": "Kullanıcı adı gereklidir",
+      "passwordRequired": "Şifre gereklidir"
+    }
+  },
+  "leads": {
+    "title": "Potansiyel Müşteri Yönetimi",
+    "addNew": "Yeni Potansiyel Müşteri Ekle",
+    "name": "İsim",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "status": "Durum"
+  },
+  "tasks": {
+    "title": "Görev Yönetimi",
+    "dueDate": "Bitiş Tarihi",
+    "priority": "Öncelik",
+    "assignedTo": "Atanan Kişi"
+  },
+  "personal": {
+    "notes": "Notlar",
+    "calendar": "Takvim",
+    "projects": "Projeler"
+  },
+  "relationships": {
+    "loadingBadge": "...",
+    "addRelationship": "İlişki Ekle",
+    "createDescription": "Yeni bir ilişki bağlantısı oluşturun",
+    "searchIn": "Arama Yeri",
+    "searchLabel": "{{type}} Ara",
+    "searchPlaceholder": "{{type}} arayın...",
+    "selectLabel": "{{type}} Seç",
+    "selectedEntity": "Seçilen {{type}}",
+    "relationshipType": "İlişki Türü",
+    "selectRelationshipType": "İlişki türünü seçin",
+    "notesOptional": "Notlar (İsteğe Bağlı)",
+    "notesPlaceholder": "Bu ilişki hakkında ek notlar...",
+    "createRelationship": "İlişki Oluştur",
+    "createError": "İlişki oluşturulamadı: {{error}}",
+    "editRelationship": "İlişkiyi Düzenle",
+    "editDescription": "{{name}} ile olan ilişkiyi güncelle",
+    "notes": "Notlar",
+    "updateRelationship": "İlişkiyi Güncelle",
+    "updateError": "İlişki güncellenemedi: {{error}}",
+    "title": "{{name}} için İlişkiler",
+    "close": "Kapat",
+    "loadingRelationships": "İlişkiler yükleniyor...",
+    "noRelationshipsFound": "Hiç ilişki bulunamadı",
+    "addFirstRelationship": "İlk İlişkiyi Ekle",
+    "created": "Oluşturuldu",
+    "relatedEntity": "İlgili Kişi/Kurum",
+    "relationship": "İlişki",
+    "contact": "İletişim",
+    "createdDate": "Oluşturulma",
+    "actions": "Eylemler",
+    "deleteConfirmation": "Bu ilişkiyi silmek istediğinizden emin misiniz?",
+    "deleteError": "İlişki silinemedi",
+    "types": {
+      "spouse": "Eş",
+      "father": "Baba",
+      "mother": "Anne",
+      "son": "Oğul",
+      "daughter": "Kız",
+      "brother": "Erkek Kardeş",
+      "sister": "Kız Kardeş",
+      "colleague": "İş Arkadaşı",
+      "manager": "Yönetici",
+      "assistant": "Asistan",
+      "business_partner": "İş Ortağı",
+      "client": "Müşteri",
+      "vendor": "Tedarikçi",
+      "referral": "Referans",
+      "friend": "Arkadaş",
+      "other": "Diğer"
+    }
+  },
+  "profile": {
+    "leadTitle": "Potansiyel Müşteri Profili",
+    "accountTitle": "Hesap Profili",
+    "lead": "potansiyel müşteri",
+    "account": "hesap",
+    "description": "{{name}} için tüm profil bilgileri",
+    "contactInfo": "İletişim Bilgileri",
+    "businessInfo": "İş Bilgileri",
+    "additionalInfo": "Ek Bilgiler",
+    "systemInfo": "Sistem Bilgileri",
+    "noProductsAssigned": "Atanmış ürün yok",
+    "noTasks": "Görev yok",
+    "noCalls": "Kaydedilmiş arama yok",
+    "boolean": {
+      "yes": "Evet",
+      "no": "Hayır"
+    },
+    "documents": {
+      "title": "İlgili Belgeler",
+      "loading": "Belgeler yükleniyor...",
+      "none": "Bu {{type}} için belge bulunamadı",
+      "size": "Boyut",
+      "uploaded": "Yüklendi",
+      "by": "Yükleyen",
+      "preview": "Belgeyi önizle",
+      "download": "Belgeyi indir",
+      "bytes": "Bayt",
+      "kb": "KB",
+      "mb": "MB",
+      "gb": "GB"
+    },
+    "productLabels": {
+      "code": "Kod",
+      "quantity": "Miktar",
+      "unitPrice": "Birim Fiyat",
+      "total": "Toplam",
+      "discount": "İndirim"
+    },
+    "taskLabels": {
+      "assignedTo": "Atanan",
+      "due": "Son Tarih",
+      "priority": "Öncelik"
+    },
+    "callLabels": {
+      "loggedBy": "Kaydeden",
+      "contact": "İlgili Kişi",
+      "moreCalls": "... ve {{count}} arama daha"
+    },
+    "taskCounts": {
+      "total": "Toplam",
+      "pending": "Bekleyen",
+      "completed": "Tamamlandı",
+      "overdue": "Gecikmiş"
+    },
+    "fields": {
+      "status": "Durum",
+      "created_at": "Oluşturma Tarihi",
+      "updated_at": "Güncelleme Tarihi",
+      "contact_person": "İlgili Kişi",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "first_name": "Ad",
+      "last_name": "Soyad",
+      "primary_contact": "Birincil İletişim",
+      "company": "Şirket",
+      "account_name": "Hesap Adı",
+      "industry": "Sektör",
+      "account_type": "Hesap Türü",
+      "address": "Adres",
+      "city": "Şehir",
+      "state": "İlçe",
+      "zip": "Posta Kodu",
+      "postal_code": "Posta Kodu",
+      "country": "Ülke",
+      "notes": "Notlar",
+      "assigned_products": "Atanmış Ürünler",
+      "tasks": "Görevler",
+      "calls": "Arama Kayıtları",
+      "call_logs": "Arama Kayıtları",
+      "account_calls": "Hesap Aramaları",
+      "task_counts": "Görev Sayıları"
+    },
+    "statuses": {
+      "new": "Yeni",
+      "contacted": "İletişim Kuruldu",
+      "qualified": "Nitelikli",
+      "proposal": "Teklif",
+      "negotiation": "Müzakere",
+      "closed-won": "Kazanıldı",
+      "closed-lost": "Kaybedildi",
+      "active": "Aktif",
+      "inactive": "Pasif",
+      "quoted": "Fiyat Verildi",
+      "ordered": "Sipariş Verildi",
+      "delivered": "Teslim Edildi",
+      "cancelled": "İptal Edildi",
+      "completed": "Tamamlandı",
+      "in-progress": "Devam Ediyor",
+      "overdue": "Gecikmiş"
+    },
+    "callOutcomes": {
+      "successful": "Başarılı",
+      "no_answer": "Cevap Yok",
+      "voicemail": "Sesli Mesaj",
+      "busy": "Meşgul",
+      "disconnected": "Bağlantı Kesildi",
+      "meeting_scheduled": "Toplantı Planlandı"
+    },
+    "categories": {
+      "sale": "Satış",
+      "follow-up": "Takip",
+      "informational": "Bilgilendirme",
+      "reminder": "Hatırlatma",
+      "support": "Destek",
+      "meeting": "Toplantı",
+      "negotiation": "Müzakere"
+    },
+    "errors": {
+      "fetchFailed": "Belgeler alınamadı",
+      "loadFailed": "Belgeler yüklenemedi",
+      "downloadFailed": "Belge indirilemedi"
+    }
+  },
+  "leadsTab": {
+    "title": "Potansiyel Müşteri Yönetimi",
+    "addLead": "Müşteri Ekle",
+    "allLeads": "Tüm Müşteriler",
+    "description": "Satış potansiyeli olan müşterilerinizi yönetin ve takip edin",
+    "searchPlaceholder": "Müşteri ara...",
+    "loadingLeads": "Müşteriler yükleniyor...",
+    "noLeads": "Müşteri bulunamadı",
+    "openMenu": "Menüyü aç",
+    "createdLabel": "Oluşturuldu",
+    "updatedLabel": "Güncellendi",
+    "pagination": {
+      "showing": "{{total}} müşteriden {{start}} - {{end}} arası gösteriliyor",
+      "perPage": "Sayfa başına:"
+    },
+    "table": {
+      "name": "İsim",
+      "contact": "İletişim",
+      "sourceStatus": "Kaynak & Durum",
+      "tasks": "Görevler",
+      "calls": "Aramalar",
+      "relations": "İlişkiler",
+      "actions": "Eylemler"
+    },
+    "actions": {
+      "relationships": "İlişkiler",
+      "logCall": "Arama Kaydet",
+      "callHistory": "Arama Geçmişi",
+      "leadHistory": "Müşteri Geçmişi",
+      "addTask": "Görev Ekle",
+      "convert": "Dönüştür"
+    },
+    "tasks": {
+      "title": "{{name}} için Görevler",
+      "closeView": "Görev Görünümünü Kapat",
+      "overdueBadge": "{{total}} ({{count}} gecikmiş)",
+      "pendingBadge": "{{total}} ({{count}} bekleyen)"
+    },
+    "calls": {
+      "recentBadge": "{{total}} ({{count}} yeni)"
+    },
+    "fields": {
+      "visible": "Görünür Alanlar",
+      "available": "Mevcut Alanlar",
+      "standard": "Standart Alanlar",
+      "custom": "Özel Alanlar"
+    }
+  },
+  "accountsTab": {
+    "title": "Hesap Yönetimi",
+    "allAccounts": "Tüm Hesaplar",
+    "description": "Müşteri hesaplarınızı ve atanmış ürünleri yönetin",
+    "searchPlaceholder": "Hesap ara...",
+    "loadingAccounts": "Hesaplar yükleniyor...",
+    "noAccounts": "Hesap bulunamadı",
+    "openMenu": "Menüyü aç",
+    "createdLabel": "Oluşturuldu",
+    "updatedLabel": "Güncellendi",
+    "pagination": {
+      "showing": "{{total}} hesaptan {{start}} - {{end}} arası gösteriliyor",
+      "perPage": "Sayfa başına:"
+    },
+    "mobile": {
+      "showProducts": "Göster",
+      "hideProducts": "Gizle"
+    },
+    "table": {
+      "accountName": "Hesap Adı",
+      "contact": "İletişim",
+      "typeIndustry": "Tür & Sektör",
+      "products": "Ürünler",
+      "total": "Toplam",
+      "tasks": "Görevler",
+      "calls": "Aramalar",
+      "relations": "İlişkiler",
+      "actions": "Eylemler"
+    },
+    "actions": {
+      "relationships": "İlişkiler",
+      "logCall": "Arama Kaydet",
+      "callHistory": "Arama Geçmişi",
+      "accountHistory": "Hesap Geçmişi",
+      "edit": "Düzenle",
+      "assignProduct": "Ürün Ata",
+      "addTask": "Görev Ekle",
+      "delete": "Sil"
+    },
+    "product": {
+      "title": "Atanmış Ürünler:",
+      "count_one": "{{count}} ürün",
+      "count_other": "{{count}} ürün",
+      "purchase_date": "Alındı",
+      "created_at": "Yaratıldı",
+      "code": "Kod",
+      "qty": "Miktar",
+      "unit": "Birim",
+      "total": "Toplam",
+      "discount": "İndirim",
+      "notes": "Notlar",
+      "deleteConfirm": "Bu ürünü hesaptan kaldırmak istediğinizden emin misiniz?"
+    },
+    "tasks": {
+      "title": "{{name}} için Görevler",
+      "closeView": "Görev Görünümünü Kapat",
+      "overdueBadge": "{{total}} ({{count}} gecikmiş)",
+      "pendingBadge": "{{total}} ({{count}} bekleyen)"
+    },
+    "calls": {
+      "recentBadge": "{{total}} ({{count}} yeni)"
+    },
+    "errors": {
+      "productRemoveFailed": "Ürün kaldırılamadı"
+    }
+  },
+  "taskNotifications": {
+    "title": "Görev Bildirimleri",
+    "description": {
+      "pending_one": "1 bekleyen göreviniz var",
+      "pending_other": "{{count}} bekleyen göreviniz var",
+      "overdue": "({{count}} gecikmiş)",
+      "mentions_one": "({{count}} bahsetme)",
+      "mentions_other": "({{count}} bahsetme)"
+    },
+    "loading": "Yükleniyor...",
+    "overdueTitle": "Gecikmiş Görevler ({{count}})",
+    "upcomingTitle": "Yaklaşan Görevler ({{count}})",
+    "mentionsTitle": "Bahsedildiğiniz Görevler ({{count}})",
+    "unreadMentions_one": "1 okunmamış bahsetmeniz var",
+    "unreadMentions_other": "{{count}} okunmamış bahsetmeniz var",
+    "noNotifications": "Şu anda görev bildirimi yok.",
+    "task": {
+      "lead": "Müşteri: {{name}}",
+      "account": "Hesap: {{name}}",
+      "general": "Genel Görev"
+    },
+    "priorities": {
+      "urgent": "Acil",
+      "high": "Yüksek",
+      "medium": "Orta",
+      "low": "Düşük"
+    },
+    "mentionTypes": {
+      "comment": "yorum yaptı",
+      "assignment": "sizi atadı",
+      "status_change": "durumu değiştirdi",
+      "default": "sizden bahsetti"
+    },
+    "dates": {
+      "justNow": "Şimdi",
+      "overdueHours": "{{count}}s gecikti",
+      "overdueDays": "{{count}}g gecikti",
+      "remainingHours": "{{count}}s kaldı",
+      "remainingDays": "{{count}}g kaldı",
+      "agoHours": "{{count}}s önce",
+      "agoDay": "1g önce",
+      "agoDays": "{{count}}g önce"
+    }
+  },
+  "dataFields": {
+    "backToSettings": "Ayarlar",
+    "title": "Alanlar ve İlişkiler",
+    "tabs": {
+      "customFields": "Özel Alanlar",
+      "fieldMappings": "Alan Eşleştirmeleri",
+      "formulaFields": "Formül Alanları",
+      "chainFields": "Zincirleme Alanlar"
+    }
+  },
+  "settings": {
+    "loading": "Profil yükleniyor...",
+    "backToHome": "Ana Sayfa",
+    "title": "Ayarlar",
+    "profile": {
+      "title": "Profil Bilgileri",
+      "alt": "Profil",
+      "uploadButton": "Fotoğraf Yükle",
+      "imageRecommendation": "Önerilen: Kare resim, 126×126 piksele yeniden boyutlandırılacak ve WebP'ye dönüştürülecektir",
+      "firstNameLabel": "Ad *",
+      "lastNameLabel": "Soyad *",
+      "emailLabel": "E-posta *",
+      "updateButton": "Profili Güncelle",
+      "updatingButton": "Güncelleniyor...",
+      "success": "Profil başarıyla güncellendi!",
+      "successCheck": "başarıyla",
+      "imageFileError": "Lütfen bir resim dosyası seçin",
+      "errors": {
+        "firstNameRequired": "Ad gerekli",
+        "lastNameRequired": "Soyad gerekli",
+        "emailRequired": "E-posta gerekli",
+        "updateFailed": "Profil güncellenemedi. Lütfen tekrar deneyin.",
+        "genericError": "Profiliniz güncellenirken bir hata oluştu."
+      }
+    },
+    "password": {
+      "title": "Şifre Değiştir",
+      "newPasswordLabel": "Yeni Şifre",
+      "confirmPasswordLabel": "Yeni Şifreyi Onayla",
+      "changeButton": "Şifreyi Değiştir",
+      "changingButton": "Değiştiriliyor...",
+      "success": "Şifre başarıyla değiştirildi!",
+      "successCheck": "başarıyla",
+      "errors": {
+        "noMatch": "Yeni şifreler eşleşmiyor",
+        "tooShort": "Yeni şifre en az 6 karakter uzunluğunda olmalıdır",
+        "changeFailed": "Şifre değiştirilemedi. Lütfen mevcut şifrenizi kontrol edin."
+      }
+    },
+    "fields": {
+      "title": "Alanlar ve İlişkiler",
+      "description": "İş ihtiyaçlarınıza uyacak şekilde Potansiyel Müşteriler ve Hesaplar gibi modüller için veri alanlarını özelleştirin.",
+      "button": "Özel Alanları Yönet",
+      "note": "Yeni alanlar ekleyin, özellikleri değiştirin ve veri nesneleri arasında ilişkiler kurun."
+    },
+    "email": {
+      "title": "E-posta Yapılandırması",
+      "description": "E-posta sağlayıcılarını yapılandırın, bağlantıları test edin ve e-posta kampanyalarını izleyin.",
+      "button": "E-posta Sağlayıcı Ayarları",
+      "note": "Gmail, SendGrid, AWS SES ve SMTP yapılandırmalarını yönetin"
+    },
+    "form2lead": {
+      "title": "Form2Lead Oluşturucu",
+      "description": "Web sitenizde gönderildiğinde otomatik olarak potansiyel müşteri oluşturan özelleştirilebilir HTML formları oluşturun.",
+      "button": "Potansiyel Müşteri Formu Oluştur",
+      "note": "CRM'inizle doğrudan entegre olan potansiyel müşteri yakalama formları için HTML/JSX kodu oluşturun"
+    },
+    "theme": {
+      "title": "Tema",
+      "darkMode": "Karanlık Mod"
+    },
+    "plugins": {
+      "title": "Eklentiler"
+    }
+  },
+  "leadCallHistory": {
+    "title": "Arama Geçmişi - {{name}}",
+    "description": "Bu potansiyel müşteri için tüm arama kayıtlarını ve istatistikleri görüntüleyin",
+    "stats": {
+      "title": "Arama İstatistikleri",
+      "total": "Toplam Arama",
+      "successful": "Başarılı",
+      "avg": "Ort. Dakika",
+      "sales": "Satış Aramaları",
+      "total_mobile": "Toplam",
+      "success_mobile": "Başarı",
+      "avg_mobile": "Ort. Dk",
+      "sales_mobile": "Satış"
+    },
+    "logTitle_one": "Arama Kayıt Geçmişi ({{count}})",
+    "logTitle_other": "Arama Kayıt Geçmişi ({{count}})",
+    "loading": "Arama geçmişi yükleniyor...",
+    "noCalls": "Henüz arama kaydedilmemiş",
+    "atTime": "",
+    "notes": "Notlar",
+    "deleteConfirm": "Bu arama kaydını silmek istediğinizden emin misiniz?",
+    "deleteError": "Arama kaydı silinemedi",
+    "confirmDelete": {
+      "title": "Silmeyi Onayla",
+      "description": "Bu arama kaydını silmek istediğinizden emin misiniz? Bu işlem geri alınamaz."
+    }
+  },
+  "leadHistory": {
+    "title": "{{name}} için Detaylar",
+    "loading": "Geçmiş yükleniyor...",
+    "noHistory": "Bu potansiyel müşteri için geçmiş bulunamadı.",
+    "byUser": "{{name}} tarafından",
+    "unknownUser": "Bilinmeyen Kullanıcı",
+    "actionTypes": {
+      "created": "OLUŞTURULDU",
+      "updated": "GÜNCELLENDİ",
+      "converted": "DÖNÜŞTÜRÜLDÜ",
+      "deleted": "SİLİNDİ",
+      "status_changed": "DURUM DEĞİŞTİ",
+      "task_created": "GÖREV OLUŞTURULDU",
+      "task_updated": "GÖREV GÜNCELLENDİ",
+      "task_deleted": "GÖREV SİLİNDİ"
+    },
+    "summary": {
+      "created": "Oluşturuldu",
+      "updated": "Güncellendi",
+      "converted": "Dönüştürüldü",
+      "statusChanges": "Durum Değişiklikleri",
+      "taskActivities": "Görev Aktiviteleri"
+    }
+  },
+  "accountCallHistory": {
+    "title": "Arama Geçmişi - {{name}}",
+    "description": "Bu hesap için tüm arama kayıtlarını ve istatistikleri görüntüleyin",
+    "stats": {
+      "title": "Arama İstatistikleri",
+      "total": "Toplam Arama",
+      "successful": "Başarılı",
+      "avg": "Ort. Dakika",
+      "meetings": "Toplantılar",
+      "total_mobile": "Toplam",
+      "success_mobile": "Başarı",
+      "avg_mobile": "Ort. Dk",
+      "meetings_mobile": "Toplantı"
+    },
+    "logTitle_one": "Arama Kayıt Geçmişi ({{count}})",
+    "logTitle_other": "Arama Kayıt Geçmişi ({{count}})",
+    "loading": "Arama geçmişi yükleniyor...",
+    "noCalls": "Henüz arama kaydedilmemiş",
+    "atTime": "",
+    "notes": "Notlar",
+    "deleteConfirm": "Bu arama kaydını silmek istediğinizden emin misiniz?",
+    "deleteError": "Arama kaydı silinemedi",
+    "confirmDelete": {
+      "title": "Silmeyi Onayla",
+      "description": "Bu arama kaydını silmek istediğinizden emin misiniz? Bu işlem geri alınamaz."
+    }
+  },
+  "accountHistory": {
+    "title": "{{name}} için Geçmiş",
+    "loading": "Geçmiş yükleniyor...",
+    "noHistory": "Bu hesap için geçmiş bulunamadı.",
+    "byUser": "{{name}} tarafından",
+    "unknownUser": "Bilinmeyen Kullanıcı",
+    "actionTypes": {
+      "created": "OLUŞTURULDU",
+      "updated": "GÜNCELLENDİ",
+      "product_assigned": "ÜRÜN ATANDI",
+      "product_updated": "ÜRÜN GÜNCELLENDİ",
+      "product_removed": "ÜRÜN KALDIRILDI",
+      "task_created": "GÖREV OLUŞTURULDU",
+      "deleted": "SİLİNDİ"
+    },
+    "summary": {
+      "created": "Oluşturuldu",
+      "updated": "Güncellendi",
+      "productsAssigned": "Atanan Ürünler",
+      "productsUpdated": "Güncellenen Ürünler",
+      "tasksCreated": "Oluşturulan Görevler"
+    }
+  },
+  "createAccountCallDialog": {
+    "title": "Hesap Araması Kaydet",
+    "description": "{{name}} için bir arama kaydedin",
+    "labels": {
+      "category": "Kategori *",
+      "outcome": "Arama Sonucu",
+      "dateTime": "Arama Tarihi ve Saati *",
+      "contactPerson": "Görüşülen Kişi",
+      "duration": "Süre (dakika)",
+      "notes": "Notlar"
+    },
+    "placeholders": {
+      "selectCategory": "Arama kategorisi seçin",
+      "contactPerson": "Kiminle konuştunuz?",
+      "optional": "İsteğe Bağlı",
+      "notes": "Arama özeti, sonraki adımlar vb."
+    },
+    "buttons": {
+      "logCall": "Aramayı Kaydet",
+      "logging": "Kaydediliyor..."
+    },
+    "errors": {
+      "categoryRequired": "Kategori gerekli",
+      "dateRequired": "Arama tarihi ve saati gerekli",
+      "durationInvalid": "Süre pozitif bir sayı olmalıdır",
+      "submitFailed": "Arama kaydedilemedi. Lütfen tekrar deneyin."
+    }
+  },
+  "createLeadCallDialog": {
+    "title": "Arama Kaydet",
+    "description": {
+      "base": "{{name}} için bir arama kaydedin",
+      "atCompany": ", {{company}}"
+    },
+    "labels": {
+      "category": "Arama Kategorisi *",
+      "date": "Arama Tarihi *",
+      "time": "Arama Saati *",
+      "outcome": "Arama Sonucu",
+      "duration": "Süre (dakika)",
+      "notes": "Arama Notları"
+    },
+    "placeholders": {
+      "selectCategory": "Kategori seçin",
+      "selectOutcome": "Sonuç seçin",
+      "optional": "İsteğe Bağlı",
+      "notes": "Arama sırasında ne konuşuldu?"
+    },
+    "buttons": {
+      "logCall": "Aramayı Kaydet",
+      "logging": "Kaydediliyor..."
+    },
+    "errors": {
+      "dateTimeRequired": "Lütfen arama için hem tarih hem de saat seçin",
+      "submitFailed": "Arama kaydedilemedi. Lütfen tekrar deneyin."
+    }
+  },
+  "convertLeadDialog": {
+    "title": "Potansiyel Müşteriyi Hesaba Dönüştür",
+    "description": "{{name}} kişisini bir hesaba dönüştürün",
+    "labels": {
+      "accountName": "Hesap Adı",
+      "accountType": "Hesap Türü",
+      "industry": "Sektör",
+      "description": "Açıklama"
+    },
+    "accountTypes": {
+      "prospect": "Potansiyel",
+      "customer": "Müşteri",
+      "partner": "İş Ortağı",
+      "vendor": "Tedarikçi"
+    },
+    "buttons": {
+      "convert": "Hesaba Dönüştür",
+      "converting": "Dönüştürülüyor..."
+    }
+  },
+  "createLeadDialog": {
+    "title": "Yeni Potansiyel Müşteri Oluştur",
+    "description": "CRM sisteminize yeni bir potansiyel müşteri ekleyin. * ile işaretli alanlar zorunludur.",
+    "status": {
+      "new": "Yeni",
+      "contacted": "İletişim Kuruldu",
+      "qualified": "Nitelikli",
+      "lost": "Kaybedildi",
+      "current": "Mevcut",
+      "setStatus": "Durumu {{label}} olarak ayarla"
+    },
+    "labels": {
+      "status": "Müşteri Durumu",
+      "firstName": "Ad *",
+      "lastName": "Soyad *",
+      "email": "E-posta *",
+      "phone": "Telefon",
+      "company": "Şirket",
+      "website": "Web Sitesi",
+      "address": "Adres",
+      "city": "Şehir",
+      "state": "İlçe / Eyalet",
+      "postalCode": "Posta Kodu",
+      "country": "Ülke",
+      "leadSource": "Müşteri Kaynağı",
+      "notes": "Notlar",
+      "additionalInfo": "Ek Bilgiler"
+    },
+    "placeholders": {
+      "leadSource": "ör. Web Sitesi, Referans, Soğuk Arama"
+    },
+    "buttons": {
+      "create": "Müşteri Oluştur",
+      "creating": "Oluşturuluyor..."
+    }
+  },
+  "editLeadDialog": {
+    "title": "Müşteriyi Düzenle",
+    "description": "Müşteri ayrıntılarını güncelleyin. * ile işaretli alanlar zorunludur.",
+    "convertedStatus": "Dönüştürüldü",
+    "labels": {
+      "status": "Müşteri Durumu"
+    },
+    "buttons": {
+      "save": "Değişiklikleri Kaydet",
+      "saving": "Kaydediliyor..."
+    }
+  },
+  "docsTab": {
+    "title": "Belge Merkezi",
+    "uploadButton": "Belge Yükle",
+    "cardTitle": "Tüm Yüklenen Belgeler",
+    "cardDescription": "Tüm potansiyel müşteri ve hesaplardaki dosyaları arayın ve yönetin.",
+    "searchPlaceholder": "Dosya adı veya kişiye göre ara...",
+    "filters": {
+      "button": "Filtreler",
+      "all": "Tümü",
+      "leads": "Müşteriler",
+      "accounts": "Hesaplar",
+      "leadsOnly": "Sadece Müşteriler",
+      "accountsOnly": "Sadece Hesaplar"
+    },
+    "viewModes": {
+      "list": "Liste",
+      "folders": "Klasörler"
+    },
+    "pagination": {
+      "showing": "{{total}} belgeden {{start}} - {{end}} arası gösteriliyor",
+      "perPage": "Sayfa başına:"
+    },
+    "table": {
+      "fileName": "Dosya Adı",
+      "relatedTo": "İlgili Kişi/Kurum",
+      "typeSize": "Tür / Boyut",
+      "uploadedBy": "Yükleyen",
+      "dateUploaded": "Yükleme Tarihi",
+      "actions": "Eylemler"
+    },
+    "noDocs": "Belge bulunamadı.",
+    "folderFileCount_one": "{{count}} dosya",
+    "folderFileCount_other": "{{count}} dosya",
+    "tooltips": {
+      "preview": "Önizle",
+      "download": "İndir",
+      "delete": "Sil"
+    },
+    "preview": {
+      "title": "Önizleme",
+      "notAvailable": "Bu dosya türü için önizleme mevcut değil.",
+      "fileType": "Dosya türü: {{type}}",
+      "size": "Boyut: {{size}}",
+      "downloadButton": "İndir"
+    },
+    "deleteConfirm": {
+      "title": "Belgeyi Sil",
+      "description": "Bu belgeyi silmek istediğinizden emin misiniz? Bu işlem geri alınamaz."
+    },
+    "errors": {
+      "deleteFailed": "Belge silinemedi.",
+      "downloadFailed": "Dosya indirilemedi."
+    }
+  },
+  "uploadDocDialog": {
+    "title": "Yeni Bir Belge Yükle",
+    "description": "Bir dosya seçin ve mevcut bir potansiyel müşteri veya hesapla ilişkilendirin.",
+    "labels": {
+      "step1": "Adım 1: Bir dosya seçin",
+      "step2": "Adım 2: Müşteri veya Hesapla İlişkilendir"
+    },
+    "placeholders": {
+      "search": "Bir müşteri veya hesap arayın..."
+    },
+    "searching": "Aranıyor...",
+    "entityTypes": {
+      "lead": "Müşteri",
+      "account": "Hesap"
+    },
+    "buttons": {
+      "uploadAndLink": "Yükle ve İlişkilendir",
+      "uploading": "Yükleniyor..."
+    },
+    "errors": {
+      "fileAndEntityRequired": "Lütfen bir dosya seçin ve bir müşteri veya hesapla ilişkilendirin.",
+      "uploadFailed": "Dosya yüklenemedi. Lütfen tekrar deneyin."
+    }
+  },
+  "notesTab": {
+    "subTabs": {
+      "myNotes": "Notlarım",
+      "sharedWithMe": "Paylaşılanlar"
+    },
+    "toolbar": {
+      "searchPlaceholder": "Notlarda ara...",
+      "viewModeList": "Liste",
+      "viewModeGrid": "Izgara",
+      "layers": "Katmanlar",
+      "addNote": "Not Ekle"
+    },
+    "grid": {
+      "bringForward": "Öne Getir",
+      "sendBackward": "Arkaya Gönder",
+      "share": "Paylaş",
+      "delete": "Sil",
+      "unshare": "Görünümümden Kaldır"
+    },
+    "list": {
+      "sharedBy": "{{name}} tarafından paylaşıldı",
+      "sharedWith": "{{count}} kişiyle paylaşıldı",
+      "noShared": "Paylaşılmadı",
+      "lastUpdated": "Son güncellenme:"
+    },
+    "noteModal": {
+      "editTitle": "Notu Düzenle",
+      "viewTitle": "Not Detayları",
+      "lastUpdated": "Son güncelleyen {{name}}, {{date}}",
+      "createdBy": "Oluşturan {{name}}, {{date}}",
+      "notShared": "Kimseyle paylaşılmadı.",
+      "sharedWith": "Paylaşılanlar:",
+      "owner": "(Sahibi)",
+      "buttons": {
+        "edit": "Düzenle",
+        "save": "Kaydet",
+        "saving": "Kaydediliyor...",
+        "cancel": "İptal",
+        "share": "Paylaş",
+        "delete": "Notu Sil",
+        "unshare": "Görünümden Kaldır"
+      }
+    },
+    "shareModal": {
+      "title": "Notu Paylaş",
+      "description": "'{{title}}' notunu başkalarıyla paylaş",
+      "searchPlaceholder": "Kullanıcı ara...",
+      "noUsersFound": "Kullanıcı bulunamadı.",
+      "alreadySharedWith": "Bu kullanıcıyla zaten paylaşılmış.",
+      "shareWith": "İle Paylaş",
+      "permissions": "İzinler",
+      "canView": "Görebilir",
+      "canEdit": "Düzenleyebilir",
+      "shareButton": "Paylaş",
+      "sharingButton": "Paylaşılıyor...",
+      "sharedUsersTitle": "Şu Anda Paylaşılanlar",
+      "removeAccess": "Erişimi Kaldır",
+      "close": "Kapat"
+    },
+    "layerPanel": {
+      "title": "Not Katmanları",
+      "reorder": "Katmanları yeniden sıralamak için sürükleyin. Üstteki en öndedir."
+    },
+    "newNote": {
+      "title": "Yeni Not",
+      "content": "Düzenlemek için tıkla..."
+    },
+    "confirmations": {
+      "delete": "Bu notu silmek istediğinizden emin misiniz?",
+      "unshare": "Bu paylaşılan notu görünümünüzden kaldırmak istediğinizden emin misiniz? Bu işlem geri alınamaz."
+    },
+    "errors": {
+      "loadPreferences": "Kullanıcı tercihleri yüklenirken hata oluştu:",
+      "saveGrid": "Izgara tercihleri kaydedilirken hata oluştu:",
+      "saveView": "Görünüm modu tercihi kaydedilirken hata oluştu:"
+    },
+    "colors": {
+      "white": "Beyaz",
+      "yellow": "Sarı",
+      "blue": "Mavi",
+      "green": "Yeşil",
+      "pink": "Pembe",
+      "purple": "Mor",
+      "orange": "Turuncu",
+      "gray": "Gri",
+      "indigo": "Çivit Mavisi",
+      "teal": "Camgöbeği",
+      "dangerRed": "Tehlike Kırmızısı",
+      "warningAmber": "Uyarı Sarısı",
+      "successGreen": "Başarı Yeşili",
+      "infoBlue": "Bilgi Mavisi",
+      "deepPurple": "Koyu Mor",
+      "charcoal": "Kömür"
+    }
+  },
+  "campaignsTab": {
+    "title": "Kampanya Yönetimi",
+    "createCampaign": "Kampanya Oluştur",
+    "allCampaigns": "Tüm Kampanyalar",
+    "description": "Pazarlama kampanyalarınızı yönetin ve takip edin",
+    "searchPlaceholder": "Kampanya ara...",
+    "loadingCampaigns": "Kampanyalar yükleniyor...",
+    "noCampaigns": "Kampanya bulunamadı.",
+    "openMenu": "Menüyü aç",
+    "openCampaign": "Açık Kampanya",
+    "pagination": {
+      "showing": "{{total}} kampanyadan {{start}} - {{end}} arası gösteriliyor",
+      "perPage": "Sayfa başına:"
+    },
+    "filters": {
+      "status": "Durum",
+      "type": "Tür",
+      "goalType": "Hedef Türü",
+      "allStatuses": "Tüm Durumlar",
+      "allTypes": "Tüm Türler",
+      "allGoalTypes": "Tüm Hedef Türleri"
+    },
+    "status": {
+      "active": "Aktif",
+      "inactive": "Pasif",
+      "completed": "Tamamlandı",
+      "paused": "Duraklatıldı"
+    },
+    "type": {
+      "lead": "Potansiyel Müşteri",
+      "account": "Hesap"
+    },
+    "goalType": {
+      "conversion": "Dönüşüm",
+      "newAdded": "Yeni Eklenen",
+      "statusChange": "Durum Değişikliği",
+      "sales": "Satışlar",
+      "revenue": "Gelir",
+      "meetings": "Toplantılar"
+    },
+    "table": {
+      "name": "İsim",
+      "type": "Tür",
+      "goal": "Hedef",
+      "progress": "İlerleme",
+      "participants": "Katılımcılar",
+      "dates": "Tarihler",
+      "status": "Durum",
+      "actions": "Eylemler",
+      "target": "Hedef"
+    },
+    "actions": {
+      "viewDetails": "Detayları Görüntüle",
+      "manageParticipants": "Katılımcıları Yönet"
+    }
+  },
+  "manageParticipants": {
+    "title": "'{{campaignName}}' için Katılımcıları Yönet",
+    "description": "Bu kampanyaya {{type}} ekleyin veya kaldırın.",
+    "unnamed": "İsimsiz Varlık",
+    "selected": "seçili",
+    "addSelected": "Seçileni Ekle",
+    "loading": "Yükleniyor...",
+    "noCurrentParticipants": "Bu kampanyanın aktif katılımcısı yok.",
+    "noAvailableEntities": "Eklenecek başka varlık yok.",
+    "noSearchResults": "Aramanız için varlık bulunamadı.",
+    "searchPlaceholder": "Bir {{type}} arayın...",
+    "tabs": {
+      "current": "Mevcut Katılımcılar",
+      "add": "Yeni Ekle"
+    },
+    "status": {
+      "active": "Aktif",
+      "completed": "Tamamlandı",
+      "removed": "Kaldırıldı"
+    },
+    "errors": {
+      "fetchParticipantsFailed": "Mevcut katılımcılar getirilemedi.",
+      "fetchEntitiesFailed": "Uygun varlıklar getirilemedi.",
+      "addFailed": "Katılımcılar eklenemedi.",
+      "removeFailed": "Katılımcı kaldırılamadı."
+    }
+  },
+  "createCampaignDialog": {
+    "title": "Yeni Kampanya Oluştur",
+    "description": "Hedefleri ve katılımcıları izlemek için yeni bir pazarlama kampanyası oluşturun.",
+    "fields": {
+      "name": "Kampanya Adı",
+      "description": "Açıklama",
+      "type": "Kampanya Türü",
+      "goalType": "Hedef Türü",
+      "goalValue": "Hedef Değeri",
+      "openCampaign": "Süresiz Kampanya",
+      "openCampaignHelp": "Bitiş tarihi olmadan süresiz olarak çalışır.",
+      "startDate": "Başlangıç Tarihi",
+      "endDate": "Bitiş Tarihi",
+      "currency": "Para Birimi"
+    },
+    "placeholders": {
+      "name": "ör. 4. Çeyrek Ürün Lansmanı",
+      "description": "Kampanyanın amacını kısaca açıklayın.",
+      "type": "Bir tür seçin",
+      "goalType": "Bir hedef seçin",
+      "goalValue": "ör. 10000 veya 50",
+      "startDate": "Bir başlangıç tarihi seçin",
+      "endDate": "Bir bitiş tarihi seçin"
+    },
+    "buttons": {
+      "create": "Kampanya Oluştur",
+      "creating": "Oluşturuluyor..."
+    },
+    "validation": {
+      "nameRequired": "Kampanya adı gerekli.",
+      "typeRequired": "Kampanya türü gerekli.",
+      "goalTypeRequired": "Hedef türü gerekli.",
+      "goalValueInvalid": "Hedef değeri geçerli bir sayı olmalıdır.",
+      "startDateRequired": "Belirli süreli kampanyalar için başlangıç tarihi gereklidir.",
+      "endDateRequired": "Belirli süreli kampanyalar için bitiş tarihi gereklidir.",
+      "endDateAfterStart": "Bitiş tarihi başlangıç tarihinden sonra olmalıdır."
+    },
+    "errors": {
+      "createFailed": "Kampanya oluşturulamadı. Lütfen tekrar deneyin."
+    }
+  },
+  "deleteCampaignDialog": {
+    "title": "Kampanyayı Sil",
+    "description": "Bu işlem geri alınamaz.",
+    "campaignName": "Kampanya Adı",
+    "warning": "Bu, kampanyayı ve ilgili tüm verilerini kalıcı olarak silecektir."
+  },
+  "campaignDetails": {
+    "noDescription": "Bu kampanya için bir açıklama sağlanmamış.",
+    "tabs": {
+      "overview": "Genel Bakış",
+      "participants": "Katılımcılar",
+      "activities": "Aktiviteler",
+      "analytics": "Analiz"
+    },
+    "overview": {
+      "information": "Kampanya Bilgileri",
+      "status": "Durum",
+      "type": "Tür",
+      "goalType": "Hedef Türü",
+      "duration": "Süre",
+      "createdBy": "Oluşturan",
+      "createdAt": "Oluşturma Tarihi",
+      "progress": "Hedef İlerlemesi",
+      "target": "Hedef",
+      "current": "Mevcut",
+      "openCampaign": "Süresiz",
+      "progressDescription": "Hedefin %{{percentage}}'ine ulaşıldı. Hedefe ulaşmak için {{remaining}} kaldı.",
+      "noGoalSet": "Bu kampanya için belirli bir hedef değeri belirlenmemiş.",
+      "quickStats": "Hızlı İstatistikler"
+    },
+    "stats": {
+      "totalParticipants": "Toplam Katılımcı",
+      "activeParticipants": "Aktif",
+      "completedParticipants": "Tamamlayan",
+      "totalActivities": "Toplam Aktivite"
+    },
+    "participants": {
+      "noParticipants": "Bu kampanyaya henüz hiç katılımcı eklenmemiş.",
+      "joinedAt": "Katıldı",
+      "contribution": "Katkı"
+    },
+    "activities": {
+      "noActivities": "Bu kampanya için henüz kaydedilmiş bir aktivite yok.",
+      "byUser": "{{name}} tarafından"
+    },
+    "analytics": {
+      "noData": "Bu kampanya için henüz analitik veri mevcut değil.",
+      "pacing": {
+        "title": "Gidişat ve Tahmin",
+        "description": "Kampanyanın bitiş tarihine kadar hedefine ulaşıp ulaşmayacağını görün.",
+        "onTrack": "Plana Uygun",
+        "behindTrack": "Planın Gerisinde",
+        "projected": "Tahmini ulaşılacak değer: {{value}}",
+        "daysElapsed": "Geçen Gün",
+        "daysRemaining": "Kalan Gün",
+        "currentPace": "Mevcut Hız / Gün",
+        "requiredPace": "Gereken Hız / Gün"
+      },
+      "topPerformers": "En İyi Performans Gösterenler",
+      "noPerformers": "Henüz hiçbir kullanıcı hedefe katkıda bulunmadı.",
+      "contribution": "Katkı",
+      "leadStatusBreakdown": "Potansiyel Müşteri Durum Dağılımı",
+      "productRevenueBreakdown": "Ürün Gelir Dağılımı",
+      "callCategoriesBreakdown": "Arama Kategorileri Dağılımı",
+      "mostActiveAccounts": "En Aktif Hesaplar",
+      "salesPerformance": {
+        "title": "Satış Performansı Detayları",
+        "description": "Detaylı satış metrikleri ve performans göstergeleri",
+        "totalSalesValue": "Toplam Satış Değeri",
+        "productsSold": "Satılan Ürünler",
+        "avgSaleValue": "Ort. Satış Değeri",
+        "highestSale": "En Yüksek Satış"
+      },
+      "conversionPerformance": {
+        "title": "Dönüşüm Performansı Detayları",
+        "description": "Detaylı dönüşüm metrikleri ve aktivite dökümü",
+        "totalConversions": "Toplam Dönüşümler",
+        "totalActivities": "Toplam Aktiviteler",
+        "conversionRate": "Dönüşüm Oranı"
+      }
+    },
+    "participantStatus": {
+      "active": "Aktif",
+      "completed": "Tamamladı",
+      "removed": "Kaldırıldı"
+    }
+  },
+  "editCampaignDialog": {
+    "title": "Kampanyayı Düzenle",
+    "description": "{{name}} kampanyasının ayrıntılarını güncelleyin",
+    "buttons": {
+      "submit": "Değişiklikleri Kaydet"
+    },
+    "errors": {
+      "updateFailed": "Kampanya güncellenemedi. Lütfen tekrar deneyin."
+    }
+  }
+}

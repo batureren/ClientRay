@@ -1,0 +1,14 @@
+{
+    "history": {
+    "created": "{{userName}} created the record",
+    "updated": "{{userName}} updated {{fieldName}} from \"{{oldValue}}\" to \"{{newValue}}\"",
+    "status_changed": "{{userName}} changed status from \"{{oldValue}}\" to \"{{newValue}}\"",
+    "converted": "{{userName}} converted the lead to an account",
+    "deleted": "{{userName}} deleted the record",
+    "task_created": "{{userName}} created a task",
+    "product_assigned": "{{userName}} assigned a product",
+    "product_updated": "{{userName}} updated a product assignment",
+    "product_removed": "{{userName}} removed a product assignment",
+    "custom_fields_updated": "{{userName}} updated custom fields"
+  }
+}

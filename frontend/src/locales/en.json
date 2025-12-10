@@ -1,0 +1,1133 @@
+{
+  "navigation": {
+    "leads": "Leads",
+    "accounts": "Accounts",
+    "docs": "Documents",
+    "products": "Products",
+    "tasks": "Tasks",
+    "dashboard": "Dashboard",
+    "reports": "Reports",
+    "campaign": "Campaign",
+    "email": "Email Marketing",
+    "database": "Import/Export Data",
+    "home": "Home",
+    "personal": "Personal",
+    "settings": "Settings",
+    "invoices": "Invoices"
+  },
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "search": "Search",
+    "filter": "Filter",
+    "confirm": "Confirm",
+    "user": "User",
+    "status": "Status",
+    "product": "Product",
+    "count": "Count",
+    "value": "Value",
+    "noData": "No data available.",
+    "fields": "Fields",
+    "resetToDefault": "Reset to Default",
+    "done": "Done",
+    "callCategory": "Call Category",
+    "revenue": "Revenue",
+    "units": "Units",
+    "accounts": "Accounts",
+    "account": "Account",
+    "callTime": "Call Time",
+    "salesRep": "Sales Rep",
+    "totalSales": "Total Sales",
+    "rate": "Rate",
+    "performance": "Performance",
+    "performanceLevels": {
+      "excellent": "Excellent",
+      "good": "Good",
+      "average": "Average",
+      "needsImprovement": "Needs Improvement"
+    }
+  },
+  "metrics": {
+    "totalCalls": "Total Calls",
+    "successRate": "Success Rate",
+    "meetings": "Meetings",
+    "salesValue": "Sales Value",
+    "products": "Products",
+    "avgSale": "Avg Sale",
+    "conversions": "Conversions",
+    "activities": "Activities"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "username": "Username",
+    "password": "Password",
+    "welcomeBack": "Welcome Back",
+    "signInToAccount": "Sign in to your account",
+    "enterUsername": "Enter your username",
+    "enterPassword": "Enter your password",
+    "showPassword": "Show password",
+    "hidePassword": "Hide password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "signIn": "Sign In",
+    "signingIn": "Signing in...",
+    "noAccount": "Don't have an account?",
+    "contactAdmin": "Contact your administrator",
+    "validation": {
+      "usernameRequired": "Username is required",
+      "passwordRequired": "Password is required"
+    }
+  },
+  "leads": {
+    "title": "Lead Management",
+    "addNew": "Add New Lead",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "status": "Status"
+  },
+  "tasks": {
+    "title": "Task Management",
+    "dueDate": "Due Date",
+    "priority": "Priority",
+    "assignedTo": "Assigned To"
+  },
+  "personal": {
+    "notes": "Notes",
+    "calendar": "Calendar",
+    "projects": "Projects"
+  },
+  "relationships": {
+    "loadingBadge": "...",
+    "addRelationship": "Add Relationship",
+    "createDescription": "Create a new relationship connection",
+    "searchIn": "Search In",
+    "searchLabel": "Search {{type}}",
+    "searchPlaceholder": "Search {{type}}...",
+    "selectLabel": "Select {{type}}",
+    "selectedEntity": "Selected {{type}}",
+    "relationshipType": "Relationship Type",
+    "selectRelationshipType": "Select relationship type",
+    "notesOptional": "Notes (Optional)",
+    "notesPlaceholder": "Additional notes about this relationship...",
+    "createRelationship": "Create Relationship",
+    "createError": "Failed to create relationship: {{error}}",
+    "editRelationship": "Edit Relationship",
+    "editDescription": "Update relationship with {{name}}",
+    "notes": "Notes",
+    "updateRelationship": "Update Relationship",
+    "updateError": "Failed to update relationship: {{error}}",
+    "title": "Relationships for {{name}}",
+    "close": "Close",
+    "loadingRelationships": "Loading relationships...",
+    "noRelationshipsFound": "No relationships found",
+    "addFirstRelationship": "Add First Relationship",
+    "created": "Created",
+    "relatedEntity": "Related Person/Entity",
+    "relationship": "Relationship",
+    "contact": "Contact",
+    "createdDate": "Created",
+    "actions": "Actions",
+    "deleteConfirmation": "Are you sure you want to delete this relationship?",
+    "deleteError": "Failed to delete relationship",
+    "types": {
+      "spouse": "Spouse",
+      "father": "Father",
+      "mother": "Mother",
+      "son": "Son",
+      "daughter": "Daughter",
+      "brother": "Brother",
+      "sister": "Sister",
+      "colleague": "Colleague",
+      "manager": "Manager",
+      "assistant": "Assistant",
+      "business_partner": "Business Partner",
+      "client": "Client",
+      "vendor": "Vendor",
+      "referral": "Referral",
+      "friend": "Friend",
+      "other": "Other"
+    }
+  },
+  "profile": {
+    "leadTitle": "Lead Profile",
+    "accountTitle": "Account Profile",
+    "lead": "lead",
+    "account": "account",
+    "description": "Complete profile information for {{name}}",
+    "contactInfo": "Contact Information",
+    "businessInfo": "Business Information",
+    "additionalInfo": "Additional Information",
+    "systemInfo": "System Information",
+    "noProductsAssigned": "No products assigned",
+    "noTasks": "No tasks",
+    "noCalls": "No calls logged",
+    "boolean": {
+      "yes": "Yes",
+      "no": "No"
+    },
+    "documents": {
+      "title": "Related Documents",
+      "loading": "Loading documents...",
+      "none": "No documents found for this {{type}}",
+      "size": "Size",
+      "uploaded": "Uploaded",
+      "by": "By",
+      "preview": "Preview document",
+      "download": "Download document",
+      "bytes": "Bytes",
+      "kb": "KB",
+      "mb": "MB",
+      "gb": "GB"
+    },
+    "productLabels": {
+      "code": "Code",
+      "quantity": "Quantity",
+      "unitPrice": "Unit Price",
+      "total": "Total",
+      "discount": "Discount"
+    },
+    "taskLabels": {
+      "assignedTo": "Assigned to",
+      "due": "Due",
+      "priority": "Priority"
+    },
+    "callLabels": {
+      "loggedBy": "Logged by",
+      "contact": "Contact",
+      "moreCalls": "... and {{count}} more calls"
+    },
+    "taskCounts": {
+      "total": "Total",
+      "pending": "Pending",
+      "completed": "Completed",
+      "overdue": "Overdue"
+    },
+    "fields": {
+      "status": "Status",
+      "created_at": "Created At",
+      "updated_at": "Updated At",
+      "contact_person": "Contact Person",
+      "email": "Email",
+      "phone": "Phone",
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "primary_contact": "Primary Contact",
+      "company": "Company",
+      "account_name": "Account Name",
+      "industry": "Industry",
+      "account_type": "Account Type",
+      "address": "Address",
+      "city": "City",
+      "state": "State",
+      "zip": "Zip Code",
+      "postal_code": "Postal Code",
+      "country": "Country",
+      "notes": "Notes",
+      "assigned_products": "Assigned Products",
+      "tasks": "Tasks",
+      "calls": "Call Logs",
+      "call_logs": "Call Logs",
+      "account_calls": "Account Calls",
+      "task_counts": "Task Counts"
+    },
+    "statuses": {
+      "new": "New",
+      "contacted": "Contacted",
+      "qualified": "Qualified",
+      "proposal": "Proposal",
+      "negotiation": "Negotiation",
+      "closed-won": "Closed-Won",
+      "closed-lost": "Closed-Lost",
+      "active": "Active",
+      "inactive": "Inactive",
+      "quoted": "Quoted",
+      "ordered": "Ordered",
+      "delivered": "Delivered",
+      "cancelled": "Cancelled",
+      "completed": "Completed",
+      "in-progress": "In Progress",
+      "overdue": "Overdue"
+    },
+    "callOutcomes": {
+      "successful": "Successful",
+      "no_answer": "No Answer",
+      "voicemail": "Voicemail",
+      "busy": "Busy",
+      "disconnected": "Disconnected",
+      "meeting_scheduled": "Meeting Scheduled"
+    },
+    "categories": {
+      "sale": "Sale",
+      "follow-up": "Follow-up",
+      "informational": "Informational",
+      "reminder": "Reminder",
+      "support": "Support",
+      "meeting": "Meeting",
+      "negotiation": "Negotiation"
+    },
+    "errors": {
+      "fetchFailed": "Failed to fetch documents",
+      "loadFailed": "Failed to load documents",
+      "downloadFailed": "Failed to download document"
+    }
+  },
+  "leadsTab": {
+    "title": "Leads Management",
+    "addLead": "Add Lead",
+    "allLeads": "All Leads",
+    "description": "Manage and track your sales leads",
+    "searchPlaceholder": "Search leads...",
+    "loadingLeads": "Loading leads...",
+    "noLeads": "No leads found",
+    "openMenu": "Open menu",
+    "createdLabel": "Created",
+    "updatedLabel": "Updated",
+    "pagination": {
+      "showing": "Showing {{start}} to {{end}} of {{total}} leads",
+      "perPage": "Per page:"
+    },
+    "table": {
+      "name": "Name",
+      "contact": "Contact",
+      "sourceStatus": "Source & Status",
+      "tasks": "Tasks",
+      "calls": "Calls",
+      "relations": "Relations",
+      "actions": "Actions"
+    },
+    "actions": {
+      "relationships": "Relationships",
+      "logCall": "Log Call",
+      "callHistory": "Call History",
+      "leadHistory": "Lead History",
+      "addTask": "Add Task",
+      "convert": "Convert"
+    },
+    "tasks": {
+      "title": "Tasks for {{name}}",
+      "closeView": "Close Tasks View",
+      "overdueBadge": "{{total}} ({{count}} overdue)",
+      "pendingBadge": "{{total}} ({{count}} pending)"
+    },
+    "calls": {
+      "recentBadge": "{{total}} ({{count}} recent)"
+    },
+    "fields": {
+      "visible": "Visible Fields",
+      "available": "Available Fields",
+      "standard": "Standard Fields",
+      "custom": "Custom Fields"
+    }
+  },
+  "accountsTab": {
+    "title": "Accounts Management",
+    "allAccounts": "All Accounts",
+    "description": "Manage your customer accounts and assigned products",
+    "searchPlaceholder": "Search accounts...",
+    "loadingAccounts": "Loading accounts...",
+    "noAccounts": "No accounts found",
+    "openMenu": "Open menu",
+    "createdLabel": "Created",
+    "updatedLabel": "Updated",
+    "pagination": {
+      "showing": "Showing {{start}} to {{end}} of {{total}} accounts",
+      "perPage": "Per page:"
+    },
+    "mobile": {
+      "showProducts": "Show",
+      "hideProducts": "Hide"
+    },
+    "table": {
+      "accountName": "Account Name",
+      "contact": "Contact",
+      "typeIndustry": "Type & Industry",
+      "products": "Products",
+      "total": "Total",
+      "tasks": "Tasks",
+      "calls": "Calls",
+      "relations": "Relations",
+      "actions": "Actions"
+    },
+    "actions": {
+      "relationships": "Relationships",
+      "logCall": "Log Call",
+      "callHistory": "Call History",
+      "accountHistory": "Account History",
+      "edit": "Edit",
+      "assignProduct": "Assign Product",
+      "addTask": "Add Task",
+      "delete": "Delete"
+    },
+    "product": {
+      "title": "Assigned Products:",
+      "count_one": "{{count}} product",
+      "count_other": "{{count}} products",
+      "purchase_date": "Purchased",
+      "created_at": "Created",
+      "code": "Code",
+      "qty": "Qty",
+      "unit": "Unit",
+      "total": "Total",
+      "discount": "Discount",
+      "notes": "Notes",
+      "deleteConfirm": "Are you sure you want to remove this product from the account?"
+    },
+    "tasks": {
+      "title": "Tasks for {{name}}",
+      "closeView": "Close Tasks View",
+      "overdueBadge": "{{total}} ({{count}} overdue)",
+      "pendingBadge": "{{total}} ({{count}} pending)"
+    },
+    "calls": {
+      "recentBadge": "{{total}} ({{count}} recent)"
+    },
+    "errors": {
+      "productRemoveFailed": "Failed to remove product"
+    }
+  },
+  "taskNotifications": {
+    "title": "Task Notifications",
+    "description": {
+      "pending_one": "You have 1 pending task",
+      "pending_other": "You have {{count}} pending tasks",
+      "overdue": "({{count}} overdue)",
+      "mentions_one": "({{count}} mention)",
+      "mentions_other": "({{count}} mentions)"
+    },
+    "loading": "Loading...",
+    "overdueTitle": "Overdue Tasks ({{count}})",
+    "upcomingTitle": "Upcoming Tasks ({{count}})",
+    "mentionsTitle": "Tasks You're Mentioned In ({{count}})",
+    "unreadMentions_one": "You have 1 unread mention",
+    "unreadMentions_other": "You have {{count}} unread mentions",
+    "noNotifications": "No task notifications at the moment.",
+    "task": {
+      "lead": "Lead: {{name}}",
+      "account": "Account: {{name}}",
+      "general": "General Task"
+    },
+    "priorities": {
+      "urgent": "Urgent",
+      "high": "High",
+      "medium": "Medium",
+      "low": "Low"
+    },
+    "mentionTypes": {
+      "comment": "commented",
+      "assignment": "assigned you",
+      "status_change": "changed status",
+      "default": "mentioned you"
+    },
+    "dates": {
+      "justNow": "Just now",
+      "overdueHours": "{{count}}h overdue",
+      "overdueDays": "{{count}}d overdue",
+      "remainingHours": "{{count}}h remaining",
+      "remainingDays": "{{count}}d remaining",
+      "agoHours": "{{count}}h ago",
+      "agoDay": "1d ago",
+      "agoDays": "{{count}}d ago"
+    }
+  },
+  "dataFields": {
+    "backToSettings": "Settings",
+    "title": "Fields & Relationships",
+    "tabs": {
+      "customFields": "Custom Fields",
+      "fieldMappings": "Field Mappings",
+      "formulaFields": "Formula Fields",
+      "chainFields": "Chain Fields"
+    }
+  },
+  "settings": {
+    "loading": "Loading profile...",
+    "backToHome": "Home",
+    "title": "Settings",
+    "profile": {
+      "title": "Profile Information",
+      "alt": "Profile",
+      "uploadButton": "Upload Photo",
+      "imageRecommendation": "Recommended: Square image, will be resized to 126×126px and converted to WebP",
+      "firstNameLabel": "First Name *",
+      "lastNameLabel": "Last Name *",
+      "emailLabel": "Email *",
+      "updateButton": "Update Profile",
+      "updatingButton": "Updating...",
+      "success": "Profile updated successfully!",
+      "successCheck": "successfully",
+      "imageFileError": "Please select an image file",
+      "errors": {
+        "firstNameRequired": "First name is required",
+        "lastNameRequired": "Last name is required",
+        "emailRequired": "Email is required",
+        "updateFailed": "Failed to update profile. Please try again.",
+        "genericError": "An error occurred while updating your profile."
+      }
+    },
+    "password": {
+      "title": "Change Password",
+      "newPasswordLabel": "New Password",
+      "confirmPasswordLabel": "Confirm New Password",
+      "changeButton": "Change Password",
+      "changingButton": "Changing...",
+      "success": "Password changed successfully!",
+      "successCheck": "successfully",
+      "errors": {
+        "noMatch": "New passwords do not match",
+        "tooShort": "New password must be at least 6 characters long",
+        "changeFailed": "Failed to change password. Please check your current password."
+      }
+    },
+    "fields": {
+      "title": "Fields & Relationships",
+      "description": "Customize the data fields for modules like Leads and Accounts to fit your business needs.",
+      "button": "Manage Custom Fields",
+      "note": "Add new fields, modify properties, and set relationships between data objects."
+    },
+    "email": {
+      "title": "Email Configuration",
+      "description": "Configure email providers, test connections, and monitor email campaigns.",
+      "button": "Email Provider Settings",
+      "note": "Manage Gmail, SendGrid, AWS SES, and SMTP configurations"
+    },
+    "form2lead": {
+      "title": "Form2Lead Generator",
+      "description": "Create customizable HTML forms that automatically generate leads when submitted on your website.",
+      "button": "Create Lead Form",
+      "note": "Generate HTML/JSX code for lead capture forms that integrate directly with your CRM"
+    },
+    "theme": {
+      "title": "Theme",
+      "darkMode": "Dark Mode"
+    },
+    "plugins": {
+      "title": "Plugins"
+    }
+  },
+  "leadCallHistory": {
+    "title": "Call History - {{name}}",
+    "description": "View all call logs and statistics for this lead",
+    "stats": {
+      "title": "Call Statistics",
+      "total": "Total Calls",
+      "successful": "Successful",
+      "avg": "Avg Minutes",
+      "sales": "Sales Calls",
+      "total_mobile": "Total",
+      "success_mobile": "Success",
+      "avg_mobile": "Avg Min",
+      "sales_mobile": "Sales"
+    },
+    "logTitle_one": "Call Log History ({{count}})",
+    "logTitle_other": "Call Log History ({{count}})",
+    "loading": "Loading call history...",
+    "noCalls": "No calls logged yet",
+    "atTime": "at",
+    "notes": "Notes",
+    "deleteConfirm": "Are you sure you want to delete this call log?",
+    "deleteError": "Failed to delete call log",
+    "confirmDelete": {
+      "title": "Confirm Deletion",
+      "description": "Are you sure you want to delete this call log? This action cannot be undone."
+    }
+  },
+  "leadHistory": {
+    "title": "Details for {{name}}",
+    "loading": "Loading history...",
+    "noHistory": "No history found for this lead.",
+    "byUser": "by {{name}}",
+    "unknownUser": "Unknown User",
+    "actionTypes": {
+      "created": "CREATED",
+      "updated": "UPDATED",
+      "converted": "CONVERTED",
+      "deleted": "DELETED",
+      "status_changed": "STATUS CHANGED",
+      "task_created": "TASK CREATED",
+      "task_updated": "TASK UPDATED",
+      "task_deleted": "TASK DELETED"
+    },
+    "summary": {
+      "created": "Created",
+      "updated": "Updated",
+      "converted": "Converted",
+      "statusChanges": "Status Changes",
+      "taskActivities": "Task Activities"
+    }
+  },
+  "accountCallHistory": {
+    "title": "Call History - {{name}}",
+    "description": "View all call logs and statistics for this account",
+    "stats": {
+      "title": "Call Statistics",
+      "total": "Total Calls",
+      "successful": "Successful",
+      "avg": "Avg Minutes",
+      "meetings": "Meetings",
+      "total_mobile": "Total",
+      "success_mobile": "Success",
+      "avg_mobile": "Avg Min",
+      "meetings_mobile": "Meetings"
+    },
+    "logTitle_one": "Call Log History ({{count}})",
+    "logTitle_other": "Call Log History ({{count}})",
+    "loading": "Loading call history...",
+    "noCalls": "No calls logged yet",
+    "atTime": "at",
+    "notes": "Notes",
+    "deleteConfirm": "Are you sure you want to delete this call log?",
+    "deleteError": "Failed to delete call log",
+    "confirmDelete": {
+      "title": "Confirm Deletion",
+      "description": "Are you sure you want to delete this call log? This action cannot be undone."
+    }
+  },
+  "accountHistory": {
+    "title": "History for {{name}}",
+    "loading": "Loading history...",
+    "noHistory": "No history found for this account.",
+    "byUser": "by {{name}}",
+    "unknownUser": "Unknown User",
+    "actionTypes": {
+      "created": "CREATED",
+      "updated": "UPDATED",
+      "product_assigned": "PRODUCT ASSIGNED",
+      "product_updated": "PRODUCT UPDATED",
+      "product_removed": "PRODUCT REMOVED",
+      "task_created": "TASK CREATED",
+      "deleted": "DELETED"
+    },
+    "summary": {
+      "created": "Created",
+      "updated": "Updated",
+      "productsAssigned": "Products Assigned",
+      "productsUpdated": "Products Updated",
+      "tasksCreated": "Tasks Created"
+    }
+  },
+  "createAccountCallDialog": {
+    "title": "Log Account Call",
+    "description": "Record a call for {{name}}",
+    "labels": {
+      "category": "Category *",
+      "outcome": "Call Outcome",
+      "dateTime": "Call Date & Time *",
+      "contactPerson": "Contact Person",
+      "duration": "Duration (minutes)",
+      "notes": "Notes"
+    },
+    "placeholders": {
+      "selectCategory": "Select call category",
+      "contactPerson": "Who did you speak with?",
+      "optional": "Optional",
+      "notes": "Call summary, next steps, etc."
+    },
+    "buttons": {
+      "logCall": "Log Call",
+      "logging": "Logging Call..."
+    },
+    "errors": {
+      "categoryRequired": "Category is required",
+      "dateRequired": "Call date and time are required",
+      "durationInvalid": "Duration must be a positive number",
+      "submitFailed": "Failed to log call. Please try again."
+    }
+  },
+  "createLeadCallDialog": {
+    "title": "Log Call",
+    "description": {
+      "base": "Record a call for {{name}}",
+      "atCompany": "at {{company}}"
+    },
+    "labels": {
+      "category": "Call Category *",
+      "date": "Call Date *",
+      "time": "Call Time *",
+      "outcome": "Call Outcome",
+      "duration": "Duration (minutes)",
+      "notes": "Call Notes"
+    },
+    "placeholders": {
+      "selectCategory": "Select category",
+      "selectOutcome": "Select outcome",
+      "optional": "Optional",
+      "notes": "What was discussed during the call?"
+    },
+    "buttons": {
+      "logCall": "Log Call",
+      "logging": "Logging..."
+    },
+    "errors": {
+      "dateTimeRequired": "Please select both date and time for the call",
+      "submitFailed": "Failed to log call. Please try again."
+    }
+  },
+  "convertLeadDialog": {
+    "title": "Convert Lead to Account",
+    "description": "Convert {{name}} to an account",
+    "labels": {
+      "accountName": "Account Name",
+      "accountType": "Account Type",
+      "industry": "Industry",
+      "description": "Description"
+    },
+    "accountTypes": {
+      "prospect": "Prospect",
+      "customer": "Customer",
+      "partner": "Partner",
+      "vendor": "Vendor"
+    },
+    "buttons": {
+      "convert": "Convert to Account",
+      "converting": "Converting..."
+    }
+  },
+  "createLeadDialog": {
+    "title": "Create New Lead",
+    "description": "Add a new lead to your CRM system. Fields marked with * are required.",
+    "status": {
+      "new": "New",
+      "contacted": "Contacted",
+      "qualified": "Qualified",
+      "lost": "Lost",
+      "current": "Current",
+      "setStatus": "Set status to {{label}}"
+    },
+    "labels": {
+      "status": "Lead Status",
+      "firstName": "First Name *",
+      "lastName": "Last Name *",
+      "email": "Email *",
+      "phone": "Phone",
+      "company": "Company",
+      "website": "Website",
+      "address": "Address",
+      "city": "City",
+      "state": "State / Province",
+      "postalCode": "Postal Code",
+      "country": "Country",
+      "leadSource": "Lead Source",
+      "notes": "Notes",
+      "additionalInfo": "Additional Information"
+    },
+    "placeholders": {
+      "leadSource": "e.g., Website, Referral, Cold Call"
+    },
+    "buttons": {
+      "create": "Create Lead",
+      "creating": "Creating..."
+    }
+  },
+  "editLeadDialog": {
+    "title": "Edit Lead",
+    "description": "Update the lead's details. Fields marked with * are required.",
+    "convertedStatus": "Converted",
+    "labels": {
+      "status": "Lead Status"
+    },
+    "buttons": {
+      "save": "Save Changes",
+      "saving": "Saving..."
+    }
+  },
+  "docsTab": {
+    "title": "Document Hub",
+    "uploadButton": "Upload Document",
+    "cardTitle": "All Uploaded Documents",
+    "cardDescription": "Search and manage all files across leads and accounts.",
+    "searchPlaceholder": "Search by filename or person...",
+    "filters": {
+      "button": "Filters",
+      "all": "All",
+      "leads": "Leads",
+      "accounts": "Accounts",
+      "leadsOnly": "Leads only",
+      "accountsOnly": "Accounts only"
+    },
+    "viewModes": {
+      "list": "List",
+      "folders": "Folders"
+    },
+    "pagination": {
+      "showing": "Showing {{start}} to {{end}} of {{total}} documents",
+      "perPage": "Per page:"
+    },
+    "table": {
+      "fileName": "File Name",
+      "relatedTo": "Related To",
+      "typeSize": "Type / Size",
+      "uploadedBy": "Uploaded By",
+      "dateUploaded": "Date Uploaded",
+      "actions": "Actions"
+    },
+    "noDocs": "No documents found.",
+    "folderFileCount_one": "{{count}} file",
+    "folderFileCount_other": "{{count}} files",
+    "tooltips": {
+      "preview": "Preview",
+      "download": "Download",
+      "delete": "Delete"
+    },
+    "preview": {
+      "title": "Preview",
+      "notAvailable": "Preview not available for this file type.",
+      "fileType": "File type: {{type}}",
+      "size": "Size: {{size}}",
+      "downloadButton": "Download"
+    },
+    "deleteConfirm": {
+      "title": "Delete Document",
+      "description": "Are you sure you want to delete this document? This action cannot be undone."
+    },
+    "errors": {
+      "deleteFailed": "Failed to delete document.",
+      "downloadFailed": "Failed to download file."
+    }
+  },
+  "uploadDocDialog": {
+    "title": "Upload a New Document",
+    "description": "Select a file and link it to an existing lead or account.",
+    "labels": {
+      "step1": "Step 1: Choose a file",
+      "step2": "Step 2: Link to Lead or Account"
+    },
+    "placeholders": {
+      "search": "Search for a lead or account..."
+    },
+    "searching": "Searching...",
+    "entityTypes": {
+      "lead": "Lead",
+      "account": "Account"
+    },
+    "buttons": {
+      "uploadAndLink": "Upload and Link",
+      "uploading": "Uploading..."
+    },
+    "errors": {
+      "fileAndEntityRequired": "Please select a file and link it to a lead or account.",
+      "uploadFailed": "File upload failed. Please try again."
+    }
+  },
+  "notesTab": {
+    "subTabs": {
+      "myNotes": "My Notes",
+      "sharedWithMe": "Shared With Me"
+    },
+    "toolbar": {
+      "searchPlaceholder": "Search notes...",
+      "viewModeList": "List",
+      "viewModeGrid": "Grid",
+      "layers": "Layers",
+      "addNote": "Add Note"
+    },
+    "grid": {
+      "bringForward": "Bring Forward",
+      "sendBackward": "Send Backward",
+      "share": "Share",
+      "delete": "Delete",
+      "unshare": "Remove From My View"
+    },
+    "list": {
+      "sharedBy": "Shared by {{name}}",
+      "sharedWith": "Shared with {{count}} people",
+      "noShared": "Not shared",
+      "lastUpdated": "Last updated:"
+    },
+    "noteModal": {
+      "editTitle": "Editing Note",
+      "viewTitle": "Note Details",
+      "lastUpdated": "Last updated by {{name}} on {{date}}",
+      "createdBy": "Created by {{name}} on {{date}}",
+      "notShared": "Not shared with anyone.",
+      "sharedWith": "Shared with:",
+      "owner": "(Owner)",
+      "buttons": {
+        "edit": "Edit",
+        "save": "Save",
+        "saving": "Saving...",
+        "cancel": "Cancel",
+        "share": "Share",
+        "delete": "Delete Note",
+        "unshare": "Remove From View"
+      }
+    },
+    "shareModal": {
+      "title": "Share Note",
+      "description": "Share '{{title}}' with others",
+      "searchPlaceholder": "Search users...",
+      "noUsersFound": "No users found.",
+      "alreadySharedWith": "Already shared with this user.",
+      "shareWith": "Share With",
+      "permissions": "Permissions",
+      "canView": "Can View",
+      "canEdit": "Can Edit",
+      "shareButton": "Share",
+      "sharingButton": "Sharing...",
+      "sharedUsersTitle": "Currently Shared With",
+      "removeAccess": "Remove Access",
+      "close": "Close"
+    },
+    "layerPanel": {
+      "title": "Note Layers",
+      "reorder": "Drag to reorder layers. Top is front."
+    },
+    "newNote": {
+      "title": "New Note",
+      "content": "Click to edit..."
+    },
+    "confirmations": {
+      "delete": "Are you sure you want to delete this note?",
+      "unshare": "Are you sure you want to remove this shared note from your view? This cannot be undone."
+    },
+    "errors": {
+      "loadPreferences": "Error loading user preferences:",
+      "saveGrid": "Error saving grid preferences:",
+      "saveView": "Error saving view mode preference:"
+    },
+    "colors": {
+      "white": "White",
+      "yellow": "Yellow",
+      "blue": "Blue",
+      "green": "Green",
+      "pink": "Pink",
+      "purple": "Purple",
+      "orange": "Orange",
+      "gray": "Gray",
+      "indigo": "Indigo",
+      "teal": "Teal",
+      "dangerRed": "Danger Red",
+      "warningAmber": "Warning Amber",
+      "successGreen": "Success Green",
+      "infoBlue": "Info Blue",
+      "deepPurple": "Deep Purple",
+      "charcoal": "Charcoal"
+    }
+  },
+  "campaignsTab": {
+    "title": "Campaigns Management",
+    "createCampaign": "Create Campaign",
+    "allCampaigns": "All Campaigns",
+    "description": "Manage and track your marketing campaigns",
+    "searchPlaceholder": "Search campaigns...",
+    "loadingCampaigns": "Loading campaigns...",
+    "noCampaigns": "No campaigns found.",
+    "openMenu": "Open menu",
+    "openCampaign": "Open Campaign",
+    "pagination": {
+      "showing": "Showing {{start}} to {{end}} of {{total}} campaigns",
+      "perPage": "Per page:"
+    },
+    "filters": {
+      "status": "Status",
+      "type": "Type",
+      "goalType": "Goal Type",
+      "allStatuses": "All Statuses",
+      "allTypes": "All Types",
+      "allGoalTypes": "All Goal Types"
+    },
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive",
+      "completed": "Completed",
+      "paused": "Paused"
+    },
+    "type": {
+      "lead": "Lead",
+      "account": "Account"
+    },
+    "goalType": {
+      "conversion": "Conversion",
+      "newAdded": "New Added",
+      "statusChange": "Status Change",
+      "sales": "Sales",
+      "revenue": "Revenue",
+      "meetings": "Meetings"
+    },
+    "table": {
+      "name": "Name",
+      "type": "Type",
+      "goal": "Goal",
+      "progress": "Progress",
+      "participants": "Participants",
+      "dates": "Dates",
+      "status": "Status",
+      "actions": "Actions",
+      "target": "Target"
+    },
+    "actions": {
+      "viewDetails": "View Details",
+      "manageParticipants": "Manage Participants"
+    }
+  },
+  "manageParticipants": {
+    "title": "Manage Participants for '{{campaignName}}'",
+    "description": "Add or remove {{type}}s from this campaign.",
+    "unnamed": "Unnamed Entity",
+    "selected": "selected",
+    "addSelected": "Add Selected",
+    "loading": "Loading...",
+    "noCurrentParticipants": "This campaign has no active participants.",
+    "noAvailableEntities": "No more entities available to add.",
+    "noSearchResults": "No entities found for your search.",
+    "searchPlaceholder": "Search {{type}}...",
+    "tabs": {
+      "current": "Current Participants",
+      "add": "Add New"
+    },
+    "status": {
+      "active": "Active",
+      "completed": "Completed",
+      "removed": "Removed"
+    },
+    "errors": {
+      "fetchParticipantsFailed": "Failed to fetch current participants.",
+      "fetchEntitiesFailed": "Failed to fetch available entities.",
+      "addFailed": "Failed to add participants.",
+      "removeFailed": "Failed to remove participant."
+    }
+  },
+  "createCampaignDialog": {
+    "title": "Create New Campaign",
+    "description": "Set up a new marketing campaign to track goals and participants.",
+    "fields": {
+      "name": "Campaign Name",
+      "description": "Description",
+      "type": "Campaign Type",
+      "goalType": "Goal Type",
+      "goalValue": "Goal Value",
+      "openCampaign": "Open-Ended Campaign",
+      "openCampaignHelp": "Runs indefinitely without an end date.",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "currency": "Currency"
+    },
+    "placeholders": {
+      "name": "e.g., Q4 Product Launch",
+      "description": "Briefly describe the campaign's purpose.",
+      "type": "Select a type",
+      "goalType": "Select a goal",
+      "goalValue": "e.g., 10000 or 50",
+      "startDate": "Pick a start date",
+      "endDate": "Pick an end date"
+    },
+    "buttons": {
+      "create": "Create Campaign",
+      "creating": "Creating..."
+    },
+    "validation": {
+      "nameRequired": "Campaign name is required.",
+      "typeRequired": "Campaign type is required.",
+      "goalTypeRequired": "Goal type is required.",
+      "goalValueInvalid": "Goal value must be a valid number.",
+      "startDateRequired": "Start date is required for campaigns with a fixed duration.",
+      "endDateRequired": "End date is required for campaigns with a fixed duration.",
+      "endDateAfterStart": "End date must be after the start date."
+    },
+    "errors": {
+      "createFailed": "Failed to create campaign. Please try again."
+    }
+  },
+  "deleteCampaignDialog": {
+    "title": "Delete Campaign",
+    "description": "This action cannot be undone.",
+    "campaignName": "Campaign Name",
+    "warning": "This will permanently delete the campaign and all of its associated data."
+  },
+  "campaignDetails": {
+    "noDescription": "No description provided for this campaign.",
+    "tabs": {
+      "overview": "Overview",
+      "participants": "Participants",
+      "activities": "Activities",
+      "analytics": "Analytics"
+    },
+    "overview": {
+      "information": "Campaign Information",
+      "status": "Status",
+      "type": "Type",
+      "goalType": "Goal Type",
+      "duration": "Duration",
+      "createdBy": "Created By",
+      "createdAt": "Created At",
+      "progress": "Goal Progress",
+      "target": "Target",
+      "current": "Current",
+      "openCampaign": "Open-Ended",
+      "progressDescription": "{{percentage}}% of the goal has been reached. {{remaining}} remaining to meet the target.",
+      "noGoalSet": "No specific goal value has been set for this campaign.",
+      "quickStats": "Quick Stats"
+    },
+    "stats": {
+      "totalParticipants": "Total Participants",
+      "activeParticipants": "Active",
+      "completedParticipants": "Completed",
+      "totalActivities": "Total Activities"
+    },
+    "participants": {
+      "noParticipants": "No participants have been added to this campaign yet.",
+      "joinedAt": "Joined",
+      "contribution": "Contribution"
+    },
+    "activities": {
+      "noActivities": "There are no activities recorded for this campaign yet.",
+      "byUser": "by {{name}}"
+    },
+    "analytics": {
+      "noData": "Analytics data is not yet available for this campaign.",
+      "pacing": {
+        "title": "Pacing & Forecasting",
+        "description": "See if the campaign is on track to meet its goal by the end date.",
+        "onTrack": "On Track",
+        "behindTrack": "Behind Track",
+        "projected": "Projected to reach {{value}}",
+        "daysElapsed": "Days Elapsed",
+        "daysRemaining": "Days Remaining",
+        "currentPace": "Current Pace / Day",
+        "requiredPace": "Required Pace / Day"
+      },
+      "topPerformers": "Top Performers",
+      "noPerformers": "No users have contributed to the goal yet.",
+      "contribution": "Contribution",
+      "leadStatusBreakdown": "Lead Status Breakdown",
+      "productRevenueBreakdown": "Product Revenue Breakdown",
+      "callCategoriesBreakdown": "Call Categories Breakdown",
+      "mostActiveAccounts": "Most Active Accounts",
+      "salesPerformance": {
+        "title": "Sales Performance Details",
+        "description": "Detailed sales metrics and performance indicators",
+        "totalSalesValue": "Total Sales Value",
+        "productsSold": "Products Sold",
+        "avgSaleValue": "Avg Sale Value",
+        "highestSale": "Highest Sale"
+      },
+      "conversionPerformance": {
+        "title": "Conversion Performance Details",
+        "description": "Detailed conversion metrics and activity breakdown",
+        "totalConversions": "Total Conversions",
+        "totalActivities": "Total Activities",
+        "conversionRate": "Conversion Rate"
+      }
+    },
+    "participantStatus": {
+      "active": "Active",
+      "completed": "Completed",
+      "removed": "Removed"
+    }
+  },
+  "editCampaignDialog": {
+    "title": "Edit Campaign",
+    "description": "Update the details for the campaign: {{name}}",
+    "buttons": {
+      "submit": "Save Changes"
+    },
+    "errors": {
+      "updateFailed": "Failed to update campaign. Please try again."
+    }
+  }
+}

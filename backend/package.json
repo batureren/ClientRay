@@ -1,0 +1,57 @@
+{
+  "name": "clientray",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:pm2": "pm2 start ecosystem.config.js",
+    "stop:pm2": "pm2 stop all",
+    "delete:pm2": "pm2 delete all",
+    "kill:pm2": "pm2 kill",
+    "show:pm2": "pm2 show ClientRay",
+    "restart:pm2": "pm2 restart ClientRay",
+    "status:pm2": "pm2 status",
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crm",
+    "lead-generation"
+  ],
+  "author": "ClientRay",
+  "license": "ISC",
+  "description": "Open Source Lead generation software",
+  "dependencies": {
+    "@aws-sdk/client-sesv2": "^3.864.0",
+    "axios": "^1.11.0",
+    "bcrypt": "^6.0.0",
+    "body-parser": "^1.20.3",
+    "bull": "^4.16.5",
+    "compression": "^1.8.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^4.21.2",
+    "googleapis": "^155.0.1",
+    "i18next": "^25.5.2",
+    "i18next-fs-backend": "^2.6.0",
+    "ioredis": "^5.7.0",
+    "jsonwebtoken": "^9.0.2",
+    "mammoth": "^1.10.0",
+    "multer": "^2.0.2",
+    "mysql2": "^3.14.3",
+    "node-cron": "^4.2.1",
+    "nodemailer": "^7.0.5",
+    "nodemailer-ses-transport": "^1.5.1",
+    "pg": "^8.16.3",
+    "pm2": "^6.0.11",
+    "redis": "^5.8.1",
+    "setimmediate": "^1.0.5"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.0",
+    "electron": "^37.2.4",
+    "nodemon": "^3.1.10",
+    "rimraf": "^6.0.1",
+    "sqlite3": "^5.1.7"
+  }
+}

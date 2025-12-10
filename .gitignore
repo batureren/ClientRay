@@ -1,0 +1,5 @@
+node_modules/
+.env
+.remote_cache
+dist
+uploads
