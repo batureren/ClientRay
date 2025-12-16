@@ -1,4 +1,4 @@
-# ClientRay Setup Guide
+# ClientRay - Lead Generation CRM Setup Guide
 
 ## Prerequisites
 
